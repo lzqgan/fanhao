@@ -10,7 +10,15 @@
 "sites":[
 
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "1080zyk","name": "❤️1080ZYK","type": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php",	"searchable": 1,"quickSearch": 0}, 
+    {
+      "key": "csp_xml_光速资源",
+      "name": "🐝光速资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
 {"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
 
 ],
