@@ -1,0 +1,93 @@
+files:
+  - time: 1680091836374.yml
+    name: 雨燕
+    url: https://yuyan.online/api/v1/client/subscribe?token=6f1deec5a2b579444207528322c94c05
+    selected: []
+    interval: 24
+    subInfo:
+      upload: 892703549
+      download: 18681602607
+      total: 80530636800
+      expire: 1681723322
+    cron: ""
+  - time: 1679938796742.yml
+    name: Clash_1679938790.yaml
+    url: https://zero.76898102.xyz/link/w889mCZkl5NISjFC?clash=1
+    selected: []
+    interval: 24
+    subInfo:
+      upload: 23237091
+      download: 3215701835
+      total: 133384110080
+      expire: 1694698518
+  - time: 1673975095892.yml
+    name: cl
+    url: https://bulink.me/sub/gkfy3u/cl
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: Proxy
+        now: auto
+    interval: 0
+    subInfo: {}
+  - time: 1667763356345.yml
+    name: "*12H"
+    url: "https://tt.vg/freeclash "
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 🚀 节点选择
+        now: 🇨🇳 中国【付费推荐：https://tt.vg/vip】206
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🎯 全球直连
+    interval: 6
+    subInfo: {}
+    cron: ""
+  - time: 1678323782804.yml
+    name: subscribe
+    url: http://cn.jsy888.top/api/v1/client/subscribe?token=eb8afc843ffb7034493f446cbb742eab
+    selected: []
+    interval: 24
+    subInfo:
+      upload: 801407955
+      download: 47788531610
+      total: 53687091200
+      expire: 1680924324
+  - time: 1673286797730.yml
+    name: 每日更新
+    url: "https://nodefree.org/dy/2023/03/20230305.yaml "
+    selected: []
+    interval: 0
+    subInfo: {}
+    cron: ""
+  - time: 1668714187249.yml
+    name: JJ助理
+    url: https://g.luxury/link/Ui6iBPG6d1FF863L?clash=2
+    selected: []
+    interval: 0
+    subInfo:
+      upload: 0
+      download: 0
+      total: 10737418240
+      expire: 1672093116
+    cron: ""
+  - time: 1673286328840.yml
+    name: "*二毛子"
+    url: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+    selected: []
+    interval: 0
+    subInfo: {}
+    cron: ""
+  - time: 1673289471684.yml
+    name: 个人订阅
+    url: >
+      https://f.kxyz.eu.org/a.php?r=aHR0cHM6Ly9yc3Mub2tnZ3Jzcy5idXp6L2xpbmsvOXQ3aVNyUGVQakZUVmNZMj9tdT0y
+    selected: []
+    interval: 0
+    subInfo: {}
+    cron: ""
+index: 0

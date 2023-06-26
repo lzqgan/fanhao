@@ -1,0 +1,3 @@
+ZYPlayer|"C:\Users\MYPC\AppData\Local\Programs\ZY Player\ZY Player.exe"
+reade|https://gitee.com/lzqgan/data/raw/master/1soft/Reader.exe
+Reader.exe|C:\Users\MYPC\Desktop\Reader.exe
