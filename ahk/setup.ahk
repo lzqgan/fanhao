@@ -6,9 +6,12 @@
 ; 为菜单栏创建子菜单:
 Menu, download, Add, 7Z, download7Z
 Menu, download, Add, 帮助, downloadhelp
+Menu, rclone, Add, 挂载, 挂载
+Menu, rclone, Add, 下载配置, downloadrclone
 ; 创建用来附加子菜单的菜单栏:
 Menu, MyMenuBar, Add, 帮助, help
 Menu, MyMenuBar, Add, 下载, :download
+Menu, MyMenuBar, Add, rclone, :rclone
 Menu, MyMenuBar, Add, 编辑, editahk
 ; 添加菜单栏到窗口:
 Gui, Menu, MyMenuBar
@@ -24,14 +27,15 @@ Loop, Parse, content, `n
 }
 
 ; 创建GUI窗口
+Gui, +Resize
 Gui, Add, Text,, 请选择要打开的软件：
 Loop, % array.Length()
 {
     softwareName := StrSplit(array[A_Index], "|")[1]
     sofy:= "y" . A_Index*30
-    Gui, Add, Button, x5 %sofy% w100 h25 gRunSoftware, %softwareName%
+    Gui, Add, Button, x5 %sofy% w80 h25 gRunSoftware, %softwareName%
 }
-Gui, Show
+Gui, Show,w300
 Return
 
 ; 运行选定的软件
@@ -58,6 +62,17 @@ downloadhelp:
 	UrlDownloadToFile,https://gitee.com/lzqgan/data/raw/master/softdata/rclone.conf,rclone.conf
 editahk:
 	run notepad.exe %A_ScriptName%
+	Return
+挂载:
+	run 挂载alist.vbs
+	Return
+downloadrclone:
+	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/softdata/data-rclone/rclone.conf,rclone.conf
+	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/softdata/data-rclone/挂载alist.vbs,挂载alist.vbs
+	run 挂载alist.vbs
+	Return
+
+
 
 
 ; 按下 F9 键或者双击系统托盘图标时显示 GUI 窗口
