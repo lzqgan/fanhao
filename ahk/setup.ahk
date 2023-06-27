@@ -47,7 +47,7 @@ return
 ; 菜单事件
 help:
 	if !FileExist("AutoHotkey_CN_1.1.30.03.chm")
-	UrlDownloadToFile,https://gitee.com/lzqgan/data/raw/master/1soft/AutoHotkey_CN_1.1.30.03.chm,AutoHotkey_CN_1.1.30.03.chm
+	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/ahk/AutoHotkey_CN_1.1.30.03.chm,AutoHotkey_CN_1.1.30.03.chm
 	run "AutoHotkey_CN_1.1.30.03.chm"
 	Return
 download7Z:
