@@ -1,4 +1,6 @@
-﻿; 设置强制单实例模式(添加到程序顶部)
+﻿;=======自动软件设置20230627=============
+
+; 设置强制单实例模式(添加到程序顶部)
 #SingleInstance force
 
 ; 为菜单栏创建子菜单:
@@ -7,6 +9,7 @@ Menu, download, Add, 帮助, downloadhelp
 ; 创建用来附加子菜单的菜单栏:
 Menu, MyMenuBar, Add, 帮助, help
 Menu, MyMenuBar, Add, 下载, :download
+Menu, MyMenuBar, Add, 编辑, editahk
 ; 添加菜单栏到窗口:
 Gui, Menu, MyMenuBar
 
@@ -43,7 +46,9 @@ return
 
 ; 菜单事件
 help:
-	run "D:\小工具\xiaogongju\SciTE\AutoHotkey_CN.chm"
+	if !FileExist("AutoHotkey_CN_1.1.30.03.chm")
+	UrlDownloadToFile,https://gitee.com/lzqgan/data/raw/master/1soft/AutoHotkey_CN_1.1.30.03.chm,AutoHotkey_CN_1.1.30.03.chm
+	run "AutoHotkey_CN_1.1.30.03.chm"
 	Return
 download7Z:
 	msgbox 测试菜单1
@@ -51,8 +56,8 @@ download7Z:
 downloadhelp:
 	msgbox 测试菜单2
 	UrlDownloadToFile,https://gitee.com/lzqgan/data/raw/master/softdata/rclone.conf,rclone.conf
-
-
+editahk:
+	run notepad.exe %A_ScriptName%
 
 
 ; 按下 F9 键或者双击系统托盘图标时显示 GUI 窗口
