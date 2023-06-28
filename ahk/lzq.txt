@@ -1,4 +1,4 @@
-ZYPlayer|"C:\Users\MYPC\AppData\Local\Programs\ZY Player\ZY Player.exe"
+ZYPlayer|C:\Users\MYPC\AppData\Local\Programs\ZY Player\ZY Player.exe
 reade|https://gitee.com/lzqgan/data/raw/master/1soft/Reader.exe
 Reader.exe|C:\Users\MYPC\Desktop\Reader.exe
 Ñ¸À×¾«¼ò°æ|D:\test|http://down10.zol.com.cn/xiazai/Minithunder_dl1.5.3.288.exe
