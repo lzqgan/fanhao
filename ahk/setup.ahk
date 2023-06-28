@@ -1,9 +1,11 @@
 ﻿;=======自动软件设置20230627=============
 
-; 设置缓存目录test,下载目录test\dsoft
+; 设置缓存目录test,下载目录test\dsoft,检测配置文件
 softtemp:="D:\test"
 if !FileExist("D:\test\dsoft")
 FileCreateDir ,D:\test\dsoft
+if !FileExist("D:\test\lzq.txt")
+UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/ahk/lzq.txt,%softtemp%\lzq.txt
 
 ; 设置强制单实例模式(添加到程序顶部)
 #SingleInstance force
@@ -27,7 +29,7 @@ Gui, Add, Tab3,x0 y0 w630 h346, 软件|View|设置
 
 ; 读取lzq.txt文件内容到一个数组中
 array := []
-FileRead, content, lzq.txt
+FileRead, content, %softtemp%\lzq.txt
 Loop, Parse, content, `n
 {
     array[A_Index] := A_LoopField
@@ -50,8 +52,11 @@ RunSoftware:
 MouseGetPos,,,,Bcontrol 
 StringTrimLeft,ButtonNum,Bcontrol,6
 softwareAddress := StrSplit(array[ButtonNum], "|")[2]   ;运行第几个按钮
+msgbox, % StrSplit(array[ButtonNum], "|")[2]
+msgbox, % StrSplit(array[ButtonNum], "|")[3]
+run, % StrSplit(array[ButtonNum], "|")[2]
 ;msgbox, %softwareAddress%
-run, %softwareAddress%
+;run, %softwareAddress%
 return
 
 
@@ -77,6 +82,7 @@ editahk:
 	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/softdata/data-rclone/挂载alist.vbs,%softtemp%\挂载alist.vbs
 	}
 	run %softtemp%\挂载alist.vbs
+	run o:
 	Return
 downloadrclone:
 	UrlDownloadToFile,https://downloads.rclone.org/v1.62.2/rclone-v1.62.2-windows-amd64.zip,%softtemp%\dsoft\rclone.zip
