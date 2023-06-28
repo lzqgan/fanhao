@@ -64,12 +64,12 @@ editahk:
 	run notepad.exe %A_ScriptName%
 	Return
 挂载:
-	run 挂载alist.vbs
+	run d:\test\挂载alist.vbs
 	Return
 downloadrclone:
-	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/softdata/data-rclone/rclone.conf,rclone.conf
-	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/softdata/data-rclone/挂载alist.vbs,挂载alist.vbs
-	run 挂载alist.vbs
+	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/softdata/data-rclone/rclone.conf,d:\test\rclone.conf
+	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/softdata/data-rclone/挂载alist.vbs,d:\test\挂载alist.vbs
+	run d:\test\挂载alist.vbs
 	Return
 
 
