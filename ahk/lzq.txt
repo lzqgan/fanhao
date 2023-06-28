@@ -2,3 +2,7 @@ ZYPlayer|"C:\Users\MYPC\AppData\Local\Programs\ZY Player\ZY Player.exe"
 reade|https://gitee.com/lzqgan/data/raw/master/1soft/Reader.exe
 Reader.exe|C:\Users\MYPC\Desktop\Reader.exe
 迅雷精简版|D:\test|http://down10.zol.com.cn/xiazai/Minithunder_dl1.5.3.288.exe
+Obsidian|C:\Users\MYPC\AppData\Local\Obsidian\Obsidian.exe|https://github.moeyy.xyz/https://github.com/obsidianmd/obsidian-releases/releases/download/v1.2.8/Obsidian.1.2.8.exe
+WinDirStat|D:\test\dsoft\WinDirStat.rar|http://xz.w10a.com/Small/WinDirStat.rar
+ToDesk|D:\test\Minithunder_dl1.5.3.288.exe|https://dl.todesk.com/irrigation/ToDesk_4.6.2.0.exe
+万能联播|D:\test\Minithunder_dl1.5.3.288.exe|https://down10.zol.com.cn/bofang/GeePlayerSetup_5.4.1.zip

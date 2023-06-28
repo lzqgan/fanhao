@@ -11,6 +11,7 @@ UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzq
 #SingleInstance force
 
 ; 为菜单栏创建子菜单:
+Menu, download, Add, 更新, downloadUp
 Menu, download, Add, 7Z, download7Z
 Menu, download, Add, 帮助, downloadhelp
 Menu, rclone, Add, 挂载alist, 挂载
@@ -49,15 +50,32 @@ Return
 
 ; 运行选定的软件
 RunSoftware:
-MouseGetPos,,,,Bcontrol 
-StringTrimLeft,ButtonNum,Bcontrol,6
-softwareAddress := StrSplit(array[ButtonNum], "|")[2]   ;运行第几个按钮
-msgbox, % StrSplit(array[ButtonNum], "|")[2]
-msgbox, % StrSplit(array[ButtonNum], "|")[3]
-run, % StrSplit(array[ButtonNum], "|")[2]
-;msgbox, %softwareAddress%
-;run, %softwareAddress%
-return
+	MouseGetPos,,,,Bcontrol 
+	StringTrimLeft,ButtonNum,Bcontrol,6
+	softwareAddress := StrSplit(array[ButtonNum], "|")[2]   ;运行第几个按钮
+	;msgbox, % "运行路径:"StrSplit(array[ButtonNum], "|")[2]"`n下载路径:"StrSplit(array[ButtonNum], "|")[3]
+	;if FileExist(softwareAddress)
+	if FileExist(StrSplit(array[ButtonNum], "|")[2])
+	{
+	;msgbox, %softwareAddress%
+	;run, % StrSplit(array[ButtonNum], "|")[2]
+	run, %softwareAddress%
+	}
+	else
+	{
+	Gosub dsoft
+	}
+	return
+
+dsoft:
+	dsoftAddress:= StrSplit(array[ButtonNum], "|")[3]
+	dsoftName:=StrSplit(dsoftAddress,"/")[StrSplit(dsoftAddress,"/").MaxIndex()]
+	;msgbox,下载地址：%dsoftAddress%`n程序名：%dsoftName%
+	UrlDownloadToFile , %dsoftAddress% ,%softtemp%\dsoft\%dsoftName%
+	MsgBox, 下载完成
+	return
+
+
 
 
 ; 菜单事件
@@ -71,7 +89,11 @@ download7Z:
 	Return
 downloadhelp:
 	msgbox 测试菜单2
-	UrlDownloadToFile,https://gitee.com/lzqgan/data/raw/master/softdata/rclone.conf,rclone.conf
+	Return
+downloadUp:
+	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/ahk/lzq.txt,%softtemp%\lzq.txt
+	Reload
+	Return
 editahk:
 	run notepad.exe %A_ScriptName%
 	Return
