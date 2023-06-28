@@ -1,13 +1,18 @@
 ﻿;=======自动软件设置20230627=============
 
+; 设置缓存目录test,下载目录test\dsoft
+softtemp:="D:\test"
+if !FileExist("D:\test\dsoft")
+FileCreateDir ,D:\test\dsoft
+
 ; 设置强制单实例模式(添加到程序顶部)
 #SingleInstance force
 
 ; 为菜单栏创建子菜单:
 Menu, download, Add, 7Z, download7Z
 Menu, download, Add, 帮助, downloadhelp
-Menu, rclone, Add, 挂载, 挂载
-Menu, rclone, Add, 下载配置, downloadrclone
+Menu, rclone, Add, 挂载alist, 挂载
+Menu, rclone, Add, 下载rclone, downloadrclone
 ; 创建用来附加子菜单的菜单栏:
 Menu, MyMenuBar, Add, 帮助, help
 Menu, MyMenuBar, Add, 下载, :download
@@ -16,6 +21,8 @@ Menu, MyMenuBar, Add, 编辑, editahk
 ; 添加菜单栏到窗口:
 Gui, Menu, MyMenuBar
 
+;设置tab
+Gui, Add, Tab3,x0 y0 w630 h346, 软件|View|设置
 
 
 ; 读取lzq.txt文件内容到一个数组中
@@ -28,7 +35,7 @@ Loop, Parse, content, `n
 
 ; 创建GUI窗口
 Gui, +Resize
-Gui, Add, Text,, 请选择要打开的软件：
+;Gui, Add, Text,, 请选择要打开的软件：
 Loop, % array.Length()
 {
     softwareName := StrSplit(array[A_Index], "|")[1]
@@ -50,9 +57,9 @@ return
 
 ; 菜单事件
 help:
-	if !FileExist("AutoHotkey_CN_1.1.30.03.chm")
-	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/ahk/AutoHotkey_CN_1.1.30.03.chm,AutoHotkey_CN_1.1.30.03.chm
-	run "AutoHotkey_CN_1.1.30.03.chm"
+	if !FileExist(softtemp . "\AutoHotkey_CN_1.1.30.03.chm")
+	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/ahk/AutoHotkey_CN_1.1.30.03.chm,%softtemp%\AutoHotkey_CN_1.1.30.03.chm
+	run %softtemp%\AutoHotkey_CN_1.1.30.03.chm
 	Return
 download7Z:
 	msgbox 测试菜单1
@@ -64,15 +71,17 @@ editahk:
 	run notepad.exe %A_ScriptName%
 	Return
 挂载:
-	run d:\test\挂载alist.vbs
+	if !FileExist(softtemp . "\挂载alist.vbs")
+	{
+	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/softdata/data-rclone/rclone.conf,%softtemp%\rclone.conf
+	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/softdata/data-rclone/挂载alist.vbs,%softtemp%\挂载alist.vbs
+	}
+	run %softtemp%\挂载alist.vbs
 	Return
 downloadrclone:
-	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/softdata/data-rclone/rclone.conf,d:\test\rclone.conf
-	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/softdata/data-rclone/挂载alist.vbs,d:\test\挂载alist.vbs
-	run d:\test\挂载alist.vbs
+	UrlDownloadToFile,https://downloads.rclone.org/v1.62.2/rclone-v1.62.2-windows-amd64.zip,%softtemp%\dsoft\rclone.zip
+	MsgBox, 下载完成
 	Return
-
-
 
 
 ; 按下 F9 键或者双击系统托盘图标时显示 GUI 窗口
