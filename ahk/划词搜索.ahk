@@ -1,4 +1,5 @@
 划词搜索:
+Gui,+AlwaysOnTop
 Gui, Add, Edit,xm r9 vkey w350, Text to appear inside the edit control (omit this parameter to start off empty).
 Gui, Add, ddl,section w60 g搜索 vsousuo, 百度||百度翻译|google|微信|知乎|豆瓣|Yandex|GitHub
 Gui, Add, Button,ys g搜索 w30, OK
@@ -6,6 +7,7 @@ Gui, Add, ddl,ys w60 g番号 vav, jable||JavBus
 Gui, Add, Button,ys g番号 w30, OK
 Gui, Add, ddl,ys w60 g影视 vyingshi, bilibili||茶杯狐
 Gui, Add, Button,ys g影视 w30, OK
+
 gui show
 return
 
