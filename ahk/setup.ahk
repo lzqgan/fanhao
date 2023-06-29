@@ -16,6 +16,7 @@ Menu, download, Add, 7Z, download7Z
 Menu, download, Add, 帮助, downloadhelp
 Menu, rclone, Add, 挂载alist, 挂载
 Menu, rclone, Add, 下载rclone, downloadrclone
+Menu, rclone, Add, 下载winfsp, downloadwinfsp
 ; 创建用来附加子菜单的菜单栏:
 Menu, MyMenuBar, Add, 帮助, help
 Menu, MyMenuBar, Add, 下载, :download
@@ -106,6 +107,10 @@ downloadUp:
 downloadrclone:
 	UrlDownloadToFile,https://downloads.rclone.org/v1.62.2/rclone-v1.62.2-windows-amd64.zip,%softtemp%\dsoft\rclone.zip
 	MsgBox, 下载完成
+	Return
+downloadwinfsp:
+	UrlDownloadToFile,https://github.com/winfsp/winfsp/releases/download/v2.0/winfsp-2.0.23075.msi,%softtemp%\dsoft\winfsp-2.0.23075.msi
+	run %softtemp%\dsoft\winfsp-2.0.23075.msi
 	Return
 editahk:
 	run notepad.exe %A_ScriptName%
