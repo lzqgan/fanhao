@@ -94,9 +94,6 @@ downloadUp:
 	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/ahk/lzq.txt,%softtemp%\lzq.txt
 	Reload
 	Return
-editahk:
-	run notepad.exe %A_ScriptName%
-	Return
 挂载:
 	if !FileExist(softtemp . "\挂载alist.vbs")
 	{
@@ -104,12 +101,16 @@ editahk:
 	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/softdata/data-rclone/挂载alist.vbs,%softtemp%\挂载alist.vbs
 	}
 	run %softtemp%\挂载alist.vbs
-	run o:
+	run o:\
 	Return
 downloadrclone:
 	UrlDownloadToFile,https://downloads.rclone.org/v1.62.2/rclone-v1.62.2-windows-amd64.zip,%softtemp%\dsoft\rclone.zip
 	MsgBox, 下载完成
 	Return
+editahk:
+	run notepad.exe %A_ScriptName%
+	Return
+
 
 
 ; 按下 F9 键或者双击系统托盘图标时显示 GUI 窗口
@@ -143,3 +144,39 @@ ToggleGui() {
         TrayTip, My Script, Click the button or press F9 to hide the GUI.
     }
 }
+
+
+;热字串
+::sj::
+FormatTime, csj, %A_Now%, yyyyMMdd
+FormatTime, sj, %A_Now%, yyyy-MM-ddThh:mm:ss{+}08:00
+Send, % csj
+Return
+
+:*:mm1::
+send luzhiqiang123
+send {enter}
+return 
+:*:mm2::
+send Luzhiqiang123
+send {enter}
+return 
+:*:mm3::
+send ganjue42500
+send {enter}
+return 
+
+
+:oR:ws::卧室
+:oR:kt::客厅
+:oR:cf::厨房
+:oR:wsj::卫生间
+:oR:gjj::工具间
+:oR:bgs::办公室
+:oR:ct::餐厅
+:oR:kt::客厅
+:oR:sf::书房
+:oR:sp::商铺
+:oR:yt::阳台
+
+
