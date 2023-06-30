@@ -7,6 +7,8 @@ Gui, Add, ddl,ys w60 g番号 vav, jable||JavBus
 Gui, Add, Button,ys g番号 w30, OK
 Gui, Add, ddl,ys w60 g影视 vyingshi, bilibili||茶杯狐
 Gui, Add, Button,ys g影视 w30, OK
+Gui, Add, ddl,ys w60 g工具 vgongju, github加速||茶杯狐
+Gui, Add, Button,ys g工具 w30, OK
 
 gui show
 return
@@ -50,6 +52,14 @@ Gui, Submit, NoHide
 If (yingshi="茶杯狐")
 run https://www.cupfox.com/?type=download&key=%key%
 If (yingshi="bilibili")
+run https://search.bilibili.com/all?keyword=%key%
+return
+
+工具:
+Gui, Submit, NoHide
+If (gongju="github加速")
+run https://github.moeyy.xyz/%key%
+If (gongju="bilibili")
 run https://search.bilibili.com/all?keyword=%key%
 return
 

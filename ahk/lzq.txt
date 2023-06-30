@@ -6,3 +6,4 @@ Obsidian|C:\Users\MYPC\AppData\Local\Obsidian\Obsidian.exe|https://github.moeyy.
 WinDirStat|D:\test\dsoft\WinDirStat.rar|http://xz.w10a.com/Small/WinDirStat.rar
 ToDesk|D:\test\Minithunder_dl1.5.3.288.exe|https://dl.todesk.com/irrigation/ToDesk_4.6.2.0.exe
 万能联播|D:\test\Minithunder_dl1.5.3.288.exe|https://down10.zol.com.cn/bofang/GeePlayerSetup_5.4.1.zip
+图集下载器V4|D:\test\asoft\图集下载器V4.exe|https://cr5.198254.com/youyatjgfxzq.zip

@@ -2,8 +2,11 @@
 
 ; 设置缓存目录test,下载目录test\dsoft,检测配置文件
 softtemp:="D:\test"
-if !FileExist("D:\test\dsoft")
+if !FileExist("D:\test\dsoft" OR "D:\test\asoft")
+{
 FileCreateDir ,D:\test\dsoft
+FileCreateDir ,D:\test\asoft
+}
 if !FileExist("D:\test\lzq.txt")
 UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/ahk/lzq.txt,%softtemp%\lzq.txt
 
