@@ -1,0 +1,32 @@
+;热字串
+::sj::
+FormatTime, csj, %A_Now%, yyyyMMdd
+FormatTime, sj, %A_Now%, yyyy-MM-ddThh:mm:ss{+}08:00
+Send, % csj
+Return
+
+:*:mm1::
+send luzhiqiang123
+send {enter}
+return 
+:*:mm2::
+send Luzhiqiang123
+send {enter}
+return 
+:*:mm3::
+send ganjue42500
+send {enter}
+return 
+
+
+:oR:ws::卧室
+:oR:kt::客厅
+:oR:cf::厨房
+:oR:wsj::卫生间
+:oR:gjj::工具间
+:oR:bgs::办公室
+:oR:ct::餐厅
+:oR:kt::客厅
+:oR:sf::书房
+:oR:sp::商铺
+:oR:yt::阳台
