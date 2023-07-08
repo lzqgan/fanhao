@@ -1,13 +1,24 @@
-划词搜索:
+;划词
+!q::
+;clipboard := ""  ; 让剪贴板初始为空, 这样可以使用 ClipWait 检测文本什么时候被复制到剪贴板中.
+Send ^c
+;ClipWait  ; 等待剪贴板中出现文本.
+;GuiControl,, key, %Clipboard%
+;gui show
+;return
+
+;划词搜索:
+Gui, Destroy
 Gui,+AlwaysOnTop
-Gui, Add, Edit,xm r9 vkey w350, Text to appear inside the edit control (omit this parameter to start off empty).
+Gui, Add, Edit,xm r9 w350, %Clipboard%
 Gui, Add, ddl,section w60 g搜索 vsousuo, 百度||百度翻译|google|微信|知乎|豆瓣|Yandex|GitHub
 Gui, Add, Button,ys g搜索 w30, OK
 Gui, Add, ddl,ys w60 g番号 vav, jable||JavBus
 Gui, Add, Button,ys g番号 w30, OK
 Gui, Add, ddl,ys w60 g影视 vyingshi, bilibili||茶杯狐
 Gui, Add, Button,ys g影视 w30, OK
-
+Gui, Add, ddl,ys w60 g工具 vgongju, github加速||茶杯狐
+Gui, Add, Button,ys g工具 w30, OK
 gui show
 return
 
@@ -53,14 +64,12 @@ If (yingshi="bilibili")
 run https://search.bilibili.com/all?keyword=%key%
 return
 
-;划词
-^q::
-;clipboard := ""  ; 让剪贴板初始为空, 这样可以使用 ClipWait 检测文本什么时候被复制到剪贴板中.
-Send ^c
-;ClipWait  ; 等待剪贴板中出现文本.
-GuiControl,, key, %Clipboard%
-gui show
+工具:
+Gui, Submit, NoHide
+If (gongju="github加速")
+run https://github.moeyy.xyz/%key%
+If (gongju="bilibili")
+run https://search.bilibili.com/all?keyword=%key%
 return
-
 
 

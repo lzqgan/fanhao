@@ -2,8 +2,11 @@
 
 ; 设置缓存目录test,下载目录test\dsoft,检测配置文件
 softtemp:="D:\test"
-if !FileExist("D:\test\dsoft")
+if !FileExist("D:\test\dsoft" OR "D:\test\asoft")
+{
 FileCreateDir ,D:\test\dsoft
+FileCreateDir ,D:\test\asoft
+}
 if !FileExist("D:\test\lzq.txt")
 UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/ahk/lzq.txt,%softtemp%\lzq.txt
 
@@ -46,7 +49,9 @@ Loop, % array.Length()
     sofy:= "y" . A_Index*30
     Gui, Add, Button, x5 %sofy% w80 h25 gRunSoftware, %softwareName%
 }
-Gui, Show,w300
+Gui, Show,w300,软件
+
+#Include 热字串.txt
 Return
 
 ; 运行选定的软件
@@ -71,7 +76,7 @@ RunSoftware:
 dsoft:
 	dsoftAddress:= StrSplit(array[ButtonNum], "|")[3]
 	dsoftName:=StrSplit(dsoftAddress,"/")[StrSplit(dsoftAddress,"/").MaxIndex()]
-	;msgbox,下载地址：%dsoftAddress%`n程序名：%dsoftName%
+	msgbox,下载地址：%dsoftAddress%`n程序名：%dsoftName%
 	UrlDownloadToFile , %dsoftAddress% ,%softtemp%\dsoft\%dsoftName%
 	MsgBox, 下载完成
 	return
@@ -102,7 +107,7 @@ downloadUp:
 	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/softdata/data-rclone/挂载alist.vbs,%softtemp%\挂载alist.vbs
 	}
 	run %softtemp%\挂载alist.vbs
-	run o:\
+	;run o:\
 	Return
 downloadrclone:
 	UrlDownloadToFile,https://downloads.rclone.org/v1.62.2/rclone-v1.62.2-windows-amd64.zip,%softtemp%\dsoft\rclone.zip
@@ -127,10 +132,10 @@ F9::
 ToggleGui()
 Return
 
-TrayTip, My Script, Double-click tray icon to show GUI.
+;TrayTip, My Script, Double-click tray icon to show GUI.
 
-Menu, Tray, Tip, % "My Script`nDouble-click tray icon to show GUI"
-Menu, Tray, Icon, Shell32.dll, 42           ; 更改托盘图标
+;Menu, Tray, Tip, % "My Script`nDouble-click tray icon to show GUI"
+;Menu, Tray, Icon, Shell32.dll, 42           ; 更改托盘图标
 
 TrayIconClick:
 ToggleGui()
@@ -150,38 +155,5 @@ ToggleGui() {
     }
 }
 
-
-;热字串
-::sj::
-FormatTime, csj, %A_Now%, yyyyMMdd
-FormatTime, sj, %A_Now%, yyyy-MM-ddThh:mm:ss{+}08:00
-Send, % csj
-Return
-
-:*:mm1::
-send luzhiqiang123
-send {enter}
-return 
-:*:mm2::
-send Luzhiqiang123
-send {enter}
-return 
-:*:mm3::
-send ganjue42500
-send {enter}
-return 
-
-
-:oR:ws::卧室
-:oR:kt::客厅
-:oR:cf::厨房
-:oR:wsj::卫生间
-:oR:gjj::工具间
-:oR:bgs::办公室
-:oR:ct::餐厅
-:oR:kt::客厅
-:oR:sf::书房
-:oR:sp::商铺
-:oR:yt::阳台
 
 
