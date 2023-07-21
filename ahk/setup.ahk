@@ -91,7 +91,10 @@ help:
 	run %softtemp%\AutoHotkey_CN_1.1.30.03.chm
 	Return
 download7Z:
-	msgbox 测试菜单1
+	FileCreateDir ,D:\test\asoft\7z
+	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/tool/7z/7z.dll,%softtemp%\asoft\7z\7z.dll
+	UrlDownloadToFile,https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/tool/7z/7z.exe,%softtemp%\asoft\7z\7z.exe
+	msgbox 下载完成
 	Return
 downloadhelp:
 	msgbox 测试菜单2
