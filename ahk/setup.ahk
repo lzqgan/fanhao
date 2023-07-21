@@ -79,6 +79,8 @@ dsoft:
 	msgbox,下载地址：%dsoftAddress%`n程序名：%dsoftName%
 	UrlDownloadToFile , %dsoftAddress% ,%softtemp%\dsoft\%dsoftName%
 	MsgBox, 下载完成
+	run D:\test\asoft\7z\7z.exe x %softtemp%\dsoft\%dsoftName% -o%softtemp%\asoft\%softwareName% -aoa  ;解压文件夹
+	MsgBox, 解压完成
 	return
 
 
