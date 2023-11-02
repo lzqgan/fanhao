@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="福利吧" title="福利吧" type="rss" 
+            xmlUrl="https://fuliba2023.net/feed" htmlUrl="https://fuliba2023.net"/>
+      <outline text="555电影" title="555电影" type="rss" 
+            xmlUrl="https://555dd10.com/rss/index.xml" htmlUrl="www.o8tv.com"/>
+      <outline text="开眼精选" title="开眼精选" type="rss" 
+            xmlUrl="https://rsshub.app/kaiyan/index" htmlUrl="https://www.kaiyanapp.com/"/>
+      <outline text="建筑学院" title="建筑学院" type="rss" 
+            xmlUrl="http://www.archcollege.com/?feed=rss2" htmlUrl="http://www.archcollege.com"/>
+      <outline text="ArchDaily" title="ArchDaily" type="rss" 
+            xmlUrl="http://www.archdaily.cn/cn/feed" htmlUrl="https://www.archdaily.cn/cn"/>
+  <outline title="soft" text="soft">
+      <outline text="lucky" title="lucky" type="rss" 
+            xmlUrl="https://www.luckydesigner.space/feed" htmlUrl="https://www.luckydesigner.space"/>
+      <outline text="小众软件" title="小众软件" type="rss" 
+            xmlUrl="http://feeds.appinn.com/appinns/" htmlUrl="https://www.appinn.com"/>
+      <outline text="正版中国" title="GetItFree" type="rss" 
+            xmlUrl="https://www.getitfree.cn/feed/" htmlUrl="https://www.getitfree.cn"/>
+      <outline text="异次元软件世界" title="异次元软件世界" type="rss" 
+            xmlUrl="http://feed.iplaysoft.com/" htmlUrl="https://www.iplaysoft.com"/>
+  </outline>
+  <outline title="FULI" text="FULI">
+      <outline text="最近更新AV在線看" title="最近更新AV在線看" type="rss" 
+            xmlUrl="https://jable.tv/rss/" htmlUrl="https://jable.tv"/>
+      <outline text="技術討論區" title="技術討論區" type="rss" 
+            xmlUrl="https://rsshub.rssforever.com/t66y/7" htmlUrl="http://www.t66y.com/thread0806.php?fid=7"/>
+      <outline text="JAVLibrary" title="评价最高的影片 - JAVLibrary" type="rss" 
+            xmlUrl="https://rsshub.rssforever.com/javlibrary/bestrated/cn" htmlUrl="https://www.javlibrary.com/cn/vl_bestrated.php?list&amp;mode=1"/>
+      <outline text="要福利" title="要福利" type="rss" 
+            xmlUrl="https://1fuli.xyz/rsslatest.xml" htmlUrl="https://1fuli.xyz"/>
+  </outline>
+</body>
+</opml>
