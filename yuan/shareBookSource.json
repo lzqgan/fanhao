@@ -82,40 +82,6 @@
     "weight": 0
   },
   {
-    "bookSourceComment": "// Error: Unable to resolve host \"wxzmh.top\": No address associated with hostname\n\nhttps://wxzmh.top/booklist?tag=%E5%85%A8%E9%83%A8&area=-1&end=-1",
-    "bookSourceGroup": "0,漫画,网站失效",
-    "bookSourceName": "久久漫画lzq",
-    "bookSourceType": 0,
-    "bookSourceUrl": "https://manhuavip.com/",
-    "customOrder": 54,
-    "enabled": true,
-    "enabledCookieJar": true,
-    "enabledExplore": true,
-    "exploreUrl": "全部::/booklist?page={{page}}&tag=%E5%85%A8%E9%83%A8&area=1&end=-1&&连载中::https://wxzmh.top/booklist?page={{page}}&tag=%E5%85%A8%E9%83%A8&area=-1&end=0&&已完结::https://wxzmh.top/booklist?page={{page}}&tag=%E5%85%A8%E9%83%A8&area=-1&end=-1\n标签\n多人::https://wxzmh.top/booklist?page={{page}}&tag=%E5%A4%9A%E4%BA%BA&area=-1&end=-1",
-    "header": "Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36 Edg/85.0.564.68",
-    "lastUpdateTime": 1699827035990,
-    "respondTime": 180029,
-    "ruleBookInfo": {},
-    "ruleContent": {
-      "content": ".comicpage@html"
-    },
-    "ruleExplore": {},
-    "ruleReview": {},
-    "ruleSearch": {
-      "bookList": ".mh-list@li",
-      "bookUrl": "a@href||class.manga-list-2-title@tag.a@href",
-      "coverUrl": ".mh-cover@style##.*(http.*)\\)##$1",
-      "name": "a@title"
-    },
-    "ruleToc": {
-      "chapterList": ".view-win-list@li",
-      "chapterName": "text",
-      "chapterUrl": "a@href"
-    },
-    "searchUrl": "https://wxzmh.top/search?keyword={{key}}",
-    "weight": 0
-  },
-  {
     "bookSourceGroup": "0,建筑",
     "bookSourceName": "建标库",
     "bookSourceType": 2,
