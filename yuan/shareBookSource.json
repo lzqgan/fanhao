@@ -1,0 +1,156 @@
+[
+  {
+    "bookSourceComment": ".stui-player__video@html  正文",
+    "bookSourceGroup": "0,漫画",
+    "bookSourceName": "一个漫画lzq",
+    "bookSourceType": 2,
+    "bookSourceUrl": "https://www.amcomic.com",
+    "customOrder": -1,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "enabledExplore": true,
+    "exploreUrl": "最新::https://www.amcomic.com/manhua/index.html\n漫画::https://www.amcomic.com/manhua/index<,-{{page}}>.html",
+    "lastUpdateTime": 1699826726228,
+    "respondTime": 42986,
+    "ruleBookInfo": {},
+    "ruleContent": {
+      "content": ".imglist@html",
+      "nextContentUrl": ".mh_headpager@a.2@href",
+      "title": "h3@text",
+      "webJs": ""
+    },
+    "ruleExplore": {
+      "bookList": "li.stui-vodlist__item",
+      "bookUrl": "a.0@href",
+      "coverUrl": "a.0@data-original",
+      "name": "h4@text"
+    },
+    "ruleReview": {},
+    "ruleSearch": {
+      "bookList": "li.stui-vodlist__item",
+      "bookUrl": "a.0@href",
+      "coverUrl": "a.0@data-original",
+      "name": "h4@text"
+    },
+    "ruleToc": {
+      "chapterList": ".stui-content__playlist@li",
+      "chapterName": "a@text",
+      "chapterUrl": "a@href##$##,{\"webView\":true}"
+    },
+    "searchUrl": "https://www.amcomic.com/vod/search/page/{{page}}.html,{\n  \"body\": \"wd={{key}}\",\n  \"charset\": \"UTF-8\",\n  \"method\": \"POST\"\n}",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "0,🈲18",
+    "bookSourceName": "集书阁",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://xn--kei-jsgdizhicom-s120ak61dvo0g.xn--jsgdizhi-yc5s.com/",
+    "customOrder": 50,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "enabledExplore": true,
+    "exploreUrl": "短篇::https://xn--kei-jsgdizhicom-s120ak61dvo0g.xn--jsgdizhi-yc5s.com/list_1_{{page}}.html\n长篇::https://xn--kei-jsgdizhicom-s120ak61dvo0g.xn--jsgdizhi-yc5s.com/list_2_{{page}}.html",
+    "lastUpdateTime": 1693535440171,
+    "respondTime": 14710,
+    "ruleBookInfo": {
+      "name": "//*[@id=\"contentlist\"]/div[1]/div[2]@text"
+    },
+    "ruleContent": {
+      "content": ".s-tab-main@tag.p@text||//*[@id=\"bookcontent\"]"
+    },
+    "ruleExplore": {
+      "bookList": ".ucontent@li",
+      "bookUrl": "a@href",
+      "intro": ".description@text",
+      "name": ".title@text"
+    },
+    "ruleReview": {},
+    "ruleSearch": {
+      "bookList": ".ucontent@li",
+      "bookUrl": "a@href",
+      "intro": ".description@text",
+      "name": ".title@text"
+    },
+    "ruleToc": {
+      "chapterList": "//*[@id=\"contentlist\"]/ul/li||//*[@id=\"contentlist\"]/div[1]/div[2]",
+      "chapterName": ".title@text||text",
+      "chapterUrl": "@js: \nurl = String(java.getString('a@href')) || baseUrl\nurl  + ',{\"webView\":true}'",
+      "isVolume": ""
+    },
+    "searchUrl": "https://xn--kei-jsgdizhicom-s120ak61dvo0g.xn--jsgdizhi-yc5s.com/list-{{key}}.html",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "// Error: Unable to resolve host \"wxzmh.top\": No address associated with hostname\n\nhttps://wxzmh.top/booklist?tag=%E5%85%A8%E9%83%A8&area=-1&end=-1",
+    "bookSourceGroup": "0,漫画,网站失效",
+    "bookSourceName": "久久漫画lzq",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://manhuavip.com/",
+    "customOrder": 54,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "enabledExplore": true,
+    "exploreUrl": "全部::/booklist?page={{page}}&tag=%E5%85%A8%E9%83%A8&area=1&end=-1&&连载中::https://wxzmh.top/booklist?page={{page}}&tag=%E5%85%A8%E9%83%A8&area=-1&end=0&&已完结::https://wxzmh.top/booklist?page={{page}}&tag=%E5%85%A8%E9%83%A8&area=-1&end=-1\n标签\n多人::https://wxzmh.top/booklist?page={{page}}&tag=%E5%A4%9A%E4%BA%BA&area=-1&end=-1",
+    "header": "Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Mobile Safari/537.36 Edg/85.0.564.68",
+    "lastUpdateTime": 1699827035990,
+    "respondTime": 180029,
+    "ruleBookInfo": {},
+    "ruleContent": {
+      "content": ".comicpage@html"
+    },
+    "ruleExplore": {},
+    "ruleReview": {},
+    "ruleSearch": {
+      "bookList": ".mh-list@li",
+      "bookUrl": "a@href||class.manga-list-2-title@tag.a@href",
+      "coverUrl": ".mh-cover@style##.*(http.*)\\)##$1",
+      "name": "a@title"
+    },
+    "ruleToc": {
+      "chapterList": ".view-win-list@li",
+      "chapterName": "text",
+      "chapterUrl": "a@href"
+    },
+    "searchUrl": "https://wxzmh.top/search?keyword={{key}}",
+    "weight": 0
+  },
+  {
+    "bookSourceGroup": "0,建筑",
+    "bookSourceName": "建标库",
+    "bookSourceType": 2,
+    "bookSourceUrl": "http://m.jianbiaoku.com/",
+    "customOrder": 57,
+    "enabled": true,
+    "enabledCookieJar": true,
+    "enabledExplore": true,
+    "exploreUrl": "建筑::http://m.jianbiaoku.com/webarbs/list/117/{{page}}.shtml\n结构::http://m.jianbiaoku.com/webarbs/list/120/{{page}}.shtml\n消防::http://m.jianbiaoku.com/webarbs/list/167/{{page}}.shtml\n\n\n规划::http://m.jianbiaoku.com/webarbs/list/119/{{page}}.shtml\n\n给排水::http://m.jianbiaoku.com/webarbs/list/121/{{page}}.shtml\n\n电气::http://m.jianbiaoku.com/webarbs/list/123/{{page}}.shtml\n\n暖通::http://m.jianbiaoku.com/webarbs/list/118/{{page}}.shtml",
+    "lastUpdateTime": 1686143581838,
+    "respondTime": 619,
+    "ruleBookInfo": {},
+    "ruleContent": {
+      "content": ".content@html"
+    },
+    "ruleExplore": {
+      "bookList": ".list@li",
+      "bookUrl": ".name@a@href",
+      "kind": ".cate@text",
+      "name": ".name@text"
+    },
+    "ruleReview": {},
+    "ruleSearch": {
+      "bookList": ".list@li",
+      "bookUrl": ".title@a@href",
+      "checkKeyWord": "民用",
+      "kind": ".cate@text",
+      "name": ".title@text"
+    },
+    "ruleToc": {
+      "chapterList": ".list@li",
+      "chapterName": "a@text",
+      "chapterUrl": "a@href"
+    },
+    "searchUrl": "http://m.jianbiaoku.com/content/index?key={{key}}&searchType=1&categoryId=115&catalogId=117&areaId=0&page={{page}}&identify=94009745&from=C",
+    "weight": 0
+  }
+]
