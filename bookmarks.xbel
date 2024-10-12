@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6301: for Floccus bookmark sync browser extension -->
+<!--- highestId :6302: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -983,7 +983,7 @@
             <title>龙腾小说网|亚洲</title>
           </bookmark>
           <bookmark href="http://www.hotupub.com/discuz/forum.php" id="2236">
-            <title>河圖/九星文化 論壇 </title>
+            <title>河圖/九星文化 論壇</title>
           </bookmark>
           <bookmark href="http://www.hotupub.com/" id="2237">
             <title>河圖文化有限公司</title>
@@ -10733,7 +10733,7 @@
             <title>龙腾小说网|亚洲</title>
           </bookmark>
           <bookmark href="http://www.hotupub.com/discuz/forum.php" id="5983">
-            <title>河圖/九星文化 論壇 </title>
+            <title>河圖/九星文化 論壇</title>
           </bookmark>
           <bookmark href="http://www.hotupub.com/" id="5984">
             <title>河圖文化有限公司</title>
@@ -11940,7 +11940,7 @@
           <title>Dynalist</title>
         </bookmark>
         <bookmark href="https://mubu.com/app" id="458">
-          <title> 幕布</title>
+          <title>幕布</title>
         </bookmark>
         <bookmark href="https://flowus.cn/78cb1a5d-6d8b-40ec-a715-f975ca80c0eb" id="459">
           <title>FlowUs 息流</title>
@@ -12023,7 +12023,7 @@
             <title>在线工具|md编辑-作业部落Cmd Markdown</title>
           </bookmark>
           <bookmark href="https://www.ppzhilian.com/" id="1115">
-            <title>在线工具|文件传输-皮皮直连 </title>
+            <title>在线工具|文件传输-皮皮直连</title>
           </bookmark>
           <bookmark href="https://deershare.com/send" id="1116">
             <title>在线工具|文件传输-小鹿快传-P2P文件传输服务</title>
@@ -12035,7 +12035,7 @@
             <title>在线工具|PDF转DOCX</title>
           </bookmark>
           <bookmark href="https://lightpdf.com/zh/" id="1119">
-            <title>在线工具|LightPDF </title>
+            <title>在线工具|LightPDF</title>
           </bookmark>
           <bookmark href="https://www.ilovepdf.com/zh-cn" id="1120">
             <title>在线工具|iLovePDF</title>
@@ -12095,7 +12095,7 @@
             <title>lzqgan油猴脚本</title>
           </bookmark>
           <bookmark href="https://www.crxsoso.com/" id="1123">
-            <title>Crx搜搜 </title>
+            <title>Crx搜搜</title>
           </bookmark>
           <bookmark href="https://chrome.zzzmh.cn/#/index" id="1124">
             <title>极简插件</title>
@@ -12162,7 +12162,7 @@
           <title>Please Wait... | Cloudflare</title>
         </bookmark>
         <bookmark href="https://www.similarweb.com/zh/" id="1439">
-          <title>相似网站-站点流量 </title>
+          <title>相似网站-站点流量</title>
         </bookmark>
         <bookmark href="https://dalaoha.github.io/yuedu/" id="1440">
           <title>开源阅读书源发现生成，开源阅读订阅源分类Url生成，M浏览器轻站筛选生成，异次元发现生成，海阔小程序分类生成</title>
@@ -12519,7 +12519,7 @@
           <title>一级注册建筑师 建筑结构在线收听-喜马拉雅FM</title>
         </bookmark>
         <bookmark href="https://www.zhihu.com/question/30665079?sort=created" id="541">
-          <title>知乎建筑大牛在哪找资料? </title>
+          <title>知乎建筑大牛在哪找资料?</title>
         </bookmark>
       </folder>
       <folder id="173">
@@ -13840,7 +13840,7 @@
           <folder id="1229">
             <title>su插件</title>
             <bookmark href="https://xiazai.zol.com.cn/detail/56/550292.shtml" id="1566">
-              <title>坯子助手 1.5 </title>
+              <title>坯子助手 1.5</title>
             </bookmark>
             <bookmark href="https://www.32r.com/soft/87086.html" id="1567">
               <title>profile builder3破解版</title>
@@ -14715,7 +14715,7 @@
           <title>四虎获取地址邮箱：4hu@mail.com</title>
         </bookmark>
         <bookmark href="https://cn.pornhub.com/" id="2158">
-          <title> Porno</title>
+          <title>Porno</title>
         </bookmark>
         <bookmark href="http://www.91porn.com/index.php" id="2159">
           <title>Chinese homemade video</title>
@@ -15107,7 +15107,7 @@
             <title>Dynalist</title>
           </bookmark>
           <bookmark href="https://mubu.com/app" id="3477">
-            <title> 幕布</title>
+            <title>幕布</title>
           </bookmark>
           <bookmark href="https://flowus.cn/78cb1a5d-6d8b-40ec-a715-f975ca80c0eb" id="3478">
             <title>FlowUs 息流</title>
@@ -15190,7 +15190,7 @@
               <title>在线工具|md编辑-作业部落Cmd Markdown</title>
             </bookmark>
             <bookmark href="https://www.ppzhilian.com/" id="3810">
-              <title>在线工具|文件传输-皮皮直连 </title>
+              <title>在线工具|文件传输-皮皮直连</title>
             </bookmark>
             <bookmark href="https://deershare.com/send" id="3811">
               <title>在线工具|文件传输-小鹿快传-P2P文件传输服务</title>
@@ -15202,7 +15202,7 @@
               <title>在线工具|PDF转DOCX</title>
             </bookmark>
             <bookmark href="https://lightpdf.com/zh/" id="3814">
-              <title>在线工具|LightPDF </title>
+              <title>在线工具|LightPDF</title>
             </bookmark>
             <bookmark href="https://www.ilovepdf.com/zh-cn" id="3815">
               <title>在线工具|iLovePDF</title>
@@ -15262,7 +15262,7 @@
               <title>lzqgan油猴脚本</title>
             </bookmark>
             <bookmark href="https://www.crxsoso.com/" id="3818">
-              <title>Crx搜搜 </title>
+              <title>Crx搜搜</title>
             </bookmark>
             <bookmark href="https://chrome.zzzmh.cn/#/index" id="3819">
               <title>极简插件</title>
@@ -15329,7 +15329,7 @@
             <title>Please Wait... | Cloudflare</title>
           </bookmark>
           <bookmark href="https://www.similarweb.com/zh/" id="4131">
-            <title>相似网站-站点流量 </title>
+            <title>相似网站-站点流量</title>
           </bookmark>
           <bookmark href="https://dalaoha.github.io/yuedu/" id="4132">
             <title>开源阅读书源发现生成，开源阅读订阅源分类Url生成，M浏览器轻站筛选生成，异次元发现生成，海阔小程序分类生成</title>
@@ -15701,7 +15701,7 @@
             <title>一级注册建筑师 建筑结构在线收听-喜马拉雅FM</title>
           </bookmark>
           <bookmark href="https://www.zhihu.com/question/30665079?sort=created" id="3560">
-            <title>知乎建筑大牛在哪找资料? </title>
+            <title>知乎建筑大牛在哪找资料?</title>
           </bookmark>
         </folder>
         <folder id="3305">
@@ -17022,7 +17022,7 @@
             <folder id="3925">
               <title>su插件</title>
               <bookmark href="https://xiazai.zol.com.cn/detail/56/550292.shtml" id="4258">
-                <title>坯子助手 1.5 </title>
+                <title>坯子助手 1.5</title>
               </bookmark>
               <bookmark href="https://www.32r.com/soft/87086.html" id="4259">
                 <title>profile builder3破解版</title>
@@ -17894,7 +17894,7 @@
             <title>四虎获取地址邮箱：4hu@mail.com</title>
           </bookmark>
           <bookmark href="https://cn.pornhub.com/" id="4987">
-            <title> Porno</title>
+            <title>Porno</title>
           </bookmark>
           <bookmark href="http://www.91porn.com/index.php" id="4988">
             <title>Chinese homemade video</title>
@@ -18690,7 +18690,7 @@
           <title>奶子山合欢曲第三部 - SEX5性屋娱乐</title>
         </bookmark>
         <bookmark href="https://zodgame.xyz/member.php?mod=logging&amp;action=login&amp;referer=https%3A%2F%2Fzodgame.xyz%2Findex.php" id="3452">
-          <title> ZodGame论坛</title>
+          <title>ZodGame论坛</title>
         </bookmark>
         <bookmark href="https://zha.eehentai.com/" id="3453">
           <title>喵紳士NyaHentai.com - 免費18h中文成人漫畫、h同人本子合集、在線情色H漫畫、線上工口同人A漫画</title>
@@ -18859,6 +18859,9 @@
   </bookmark>
   <bookmark href="https://www.innoreader.com/all_articles" id="10">
     <title>Inoreader</title>
+  </bookmark>
+  <bookmark href="https://mail.126.com/" id="6302">
+    <title>网易邮箱</title>
   </bookmark>
 </folder>
 <folder id="2">
