@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6308: for Floccus bookmark sync browser extension -->
+<!--- highestId :6309: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -18925,6 +18925,9 @@
   </bookmark>
   <bookmark href="https://www.22k30.com/help/notice.html" id="204">
     <title>帮助教程</title>
+  </bookmark>
+  <bookmark href="https://www.iopq.net/forum.php?mod=viewthread&amp;tid=17123545&amp;highlight=%CD%EA%C3%C0%CA%C0%BD%E7" id="6309">
+    <title>【新提醒】【 完美世界国际版】怀旧单机服务端公测版 - 网游单机下载 - 藏宝湾网游单机站 - Powered by Discuz!</title>
   </bookmark>
 </folder>
 </xbel>
