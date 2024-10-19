@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6314: for Floccus bookmark sync browser extension -->
+<!--- highestId :6315: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -18892,6 +18892,9 @@
   </bookmark>
   <bookmark href="https://www.bidianer.com/site/186360" id="6314">
     <title>影视大全</title>
+  </bookmark>
+  <bookmark href="https://www.hsck.la/" id="6315">
+    <title>黄色仓库</title>
   </bookmark>
 </folder>
 <folder id="2">
