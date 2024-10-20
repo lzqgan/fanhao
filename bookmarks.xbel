@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6320: for Floccus bookmark sync browser extension -->
+<!--- highestId :6321: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -18910,6 +18910,9 @@
   </bookmark>
   <bookmark href="https://pastebin.com/" id="6320">
     <title>Pastebin.com - #1 paste tool since 2002!</title>
+  </bookmark>
+  <bookmark href="https://www.bilibili.com/video/BV1QC4y1C716/?spm_id_from=333.337.search-card.all.click&amp;vd_source=18c8e3170f64a0712b761bb61d255585" id="6321">
+    <title>2024新版小雅ALIST+小雅EMBY的正确食用方式（上）_哔哩哔哩_bilibili</title>
   </bookmark>
 </folder>
 <folder id="2">
