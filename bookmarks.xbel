@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6323: for Floccus bookmark sync browser extension -->
+<!--- highestId :6324: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -18893,9 +18893,6 @@
   <bookmark href="http://www.wm91.hk/136/index.html" id="6303">
     <title>梦回零六完美</title>
   </bookmark>
-  <bookmark href="https://www.xblbh.cn/wenda/584.html" id="6304">
-    <title>搜搜完美</title>
-  </bookmark>
   <bookmark href="https://www.iopq.net/forum.php?mod=viewthread&amp;tid=17128818&amp;highlight=%CD%EA%C3%C0%CA%C0%BD%E7" id="6305">
     <title>【新提醒】夜雨游戏 完美世界136 一键安装，一键启动 - 网游单机讨论 - 藏宝湾网游单机站 - Powered by Discuz!</title>
   </bookmark>
@@ -18919,6 +18916,9 @@
   </bookmark>
   <bookmark href="https://yuanjineng.cn/" id="6323">
     <title>AI元技能 - AI建筑设计，AI室内设计，AI景观设计，AI图库、工具、网站与提示词分享</title>
+  </bookmark>
+  <bookmark href="https://ssswm.com/" id="6324">
+    <title>WWW.SSSWM.COM-搜搜搜完美国际资源网，最完整的新开完美资源网发布信息中心！</title>
   </bookmark>
 </folder>
 <folder id="2">
