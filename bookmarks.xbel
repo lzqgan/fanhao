@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6322: for Floccus bookmark sync browser extension -->
+<!--- highestId :6323: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -18916,6 +18916,9 @@
   </bookmark>
   <bookmark href="https://www.liblib.art/" id="6322">
     <title>LiblibAI-哩布哩布AI - 中国领先的AI创作平台</title>
+  </bookmark>
+  <bookmark href="https://yuanjineng.cn/" id="6323">
+    <title>AI元技能 - AI建筑设计，AI室内设计，AI景观设计，AI图库、工具、网站与提示词分享</title>
   </bookmark>
 </folder>
 <folder id="2">
