@@ -18866,7 +18866,7 @@
   <bookmark href="https://web.telegram.org/a/" id="6327">
     <title>Telegram</title>
   </bookmark>
-  <bookmark href="javascript:(function(){document.write(&apos;&lt;HTML&gt;&lt;HEAD&gt;&lt;TITLE&gt;%E4%B8%89%E5%B1%8F%E6%90%9C%E7%B4%A2&lt;/TITLE&gt;&lt;/HEAD&gt;&lt;FRAMESET COLS=\&apos;33%,34%,33%\&apos;&gt;&lt;FRAME SRC=&apos;+(&apos;https://www.hsck.la/index.php/vod/search.html?wd=%27+%27%s%27)+%27%3E%3CFRAME%20SRC=%27+(%27hhttps://www.javbus.com/search/%27+%27%s%27)+%27%3E%3CFRAME%20SRC=%27+(%27https://jable.tv/videos/%27+%27%s%27+%27/%27)+%27%3E%3C/FRAMESET%3E%3C/HTML%3E%27);})()" id="6328">
+  <bookmark href="javascript:(function(){let selectedText = window.getSelection().toString().trim();document.write(&apos;&lt;HTML&gt;&lt;HEAD&gt;&lt;TITLE&gt;%E4%B8%89%E5%B1%8F%E6%90%9C%E7%B4%A2&lt;/TITLE&gt;&lt;/HEAD&gt;&lt;FRAMESET COLS=\&apos;33%,34%,33%\&apos;&gt;&lt;FRAME SRC=&apos;+(&apos;https://www.hsck.la/index.php/vod/search.html?wd=%27+selectedText)+%27%3E%3CFRAME%20SRC=%27+(%27hhttps://www.javbus.com/search/%27+selectedText)+%27%3E%3CFRAME%20SRC=%27+(%27https://jable.tv/videos/%27+selectedText+%27/%27)+%27%3E%3C/FRAMESET%3E%3C/HTML%3E%27);})()" id="6328">
     <title>jav三屏</title>
   </bookmark>
   <bookmark href="https://ai.jucwl.com/#/chat" id="6325">
