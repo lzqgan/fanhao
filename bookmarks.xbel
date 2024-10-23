@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6333: for Floccus bookmark sync browser extension -->
+<!--- highestId :6334: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -18831,6 +18831,9 @@
     </bookmark>
     <bookmark href="https://mgz0227.github.io/The-tutorial-of-Legado/" id="6308">
       <title>阅读3.0(Legado)规则说明</title>
+    </bookmark>
+    <bookmark href="https://search.hoothin.com/671946002933f" id="6334">
+      <title>my搜索酱</title>
     </bookmark>
   </folder>
   <bookmark href="https://www.usezz.com/" id="6332">
