@@ -18863,7 +18863,7 @@
   <bookmark href="https://ai.jucwl.com/#/chat" id="6325">
     <title>CharAI</title>
   </bookmark>
-  <bookmark href="javascript:(function(){document.write(&apos;&lt;HTML&gt;&lt;HEAD&gt;&lt;TITLE&gt;%E4%B8%89%E5%B1%8F%E6%90%9C%E7%B4%A2&lt;/TITLE&gt;&lt;/HEAD&gt;&lt;FRAMESET COLS=\&apos;33%,34%,33%\&apos;&gt;&lt;FRAME SRC=&apos;+(&apos;https://www.baidu.com/s?wd=%27+%27%s%27)+%27%3E%3CFRAME%20SRC=%27+(%27https://www.google.com/search?num=10&amp;igu=1&amp;q=%27+%27%s%27)+%27%3E%3CFRAME%20SRC=%27+(%27https://www.bing.com/search?q=%27+%27%s%27)+%27%3E%3C/FRAMESET%3E%3C/HTML%3E%27);})()" id="6329">
+  <bookmark href="javascript:function copyToClipboard() {  var pageTitle = document.title;  var pageURL = window.location.href;  var combinedText = pageTitle + &quot; - &quot; + pageURL;  var tempInput = document.createElement(&quot;input&quot;);  tempInput.value = combinedText;  document.body.appendChild(tempInput);  tempInput.select();  document.execCommand(&quot;copy&quot;);  document.body.removeChild(tempInput);  alert(&quot;%E5%B7%B2%E5%A4%8D%E5%88%B6%E5%88%B0%E5%89%AA%E8%B4%B4%E6%9D%BF: &quot; + combinedText);}" id="6329">
     <title>三屏搜索</title>
   </bookmark>
   <bookmark href="http://192.168.0.1/" id="6">
