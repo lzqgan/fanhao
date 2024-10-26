@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6336: for Floccus bookmark sync browser extension -->
+<!--- highestId :6337: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -11183,6 +11183,9 @@
       </bookmark>
       <bookmark href="https://www.seejav.help/forum/forum.php?mod=viewthread&amp;tid=146463" id="6333">
         <title>我好爱她（女优推荐第三期） - 老司機福利討論區 - 老司機論壇</title>
+      </bookmark>
+      <bookmark href="https://blog.csdn.net/cukw6666/article/details/108080827?spm=1001.2101.3001.6661.1&amp;utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7EPaidSort-1-108080827-blog-108577674.235%5Ev43%5Epc_blog_bottom_relevance_base4&amp;depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7EPaidSort-1-108080827-blog-108577674.235%5Ev43%5Epc_blog_bottom_relevance_base4&amp;utm_relevant_index=1" id="6337">
+        <title>如何使用HTML将Favicon添加到您的网站-CSDN博客</title>
       </bookmark>
     </folder>
     <folder id="29">
