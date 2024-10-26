@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6337: for Floccus bookmark sync browser extension -->
+<!--- highestId :6338: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -18931,6 +18931,9 @@
   </bookmark>
   <bookmark href="https://xn--ehqx35aimmzwv.com/" id="6336">
     <title>机场导航页</title>
+  </bookmark>
+  <bookmark href="https://vscode.dev/?vscode-lang=zh-cn" id="6338">
+    <title>Visual Studio Code</title>
   </bookmark>
 </folder>
 <folder id="2">
