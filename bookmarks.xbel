@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6341: for Floccus bookmark sync browser extension -->
+<!--- highestId :6342: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -14903,9 +14903,6 @@
         <bookmark href="https://www.wnflb2023.com/plugin.php?id=rank_7ree:rank_7ree&amp;code=1&amp;fid_7ree=0" id="3259">
           <title>福利吧论坛</title>
         </bookmark>
-        <bookmark href="https://fuliba2023.net/" id="3260">
-          <title>福利吧</title>
-        </bookmark>
         <bookmark href="https://www.163.com/dy/media/T1603594732083.html" id="3261">
           <title>365资讯简报</title>
         </bookmark>
@@ -18849,6 +18846,12 @@
     </bookmark>
     <bookmark href="https://www.innoreader.com/all_articles" id="10">
       <title>Inoreader</title>
+    </bookmark>
+    <bookmark href="https://fuliba2023.net/" id="3260">
+      <title>福利吧</title>
+    </bookmark>
+    <bookmark href="https://www.wnflb00.com/plugin.php?id=rank_7ree:rank_7ree&amp;code=1&amp;fid_7ree=0" id="6342">
+      <title>福利吧论坛</title>
     </bookmark>
   </folder>
   <folder id="6341">
