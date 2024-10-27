@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6342: for Floccus bookmark sync browser extension -->
+<!--- highestId :6343: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -15343,6 +15343,15 @@
   </folder>
   <folder id="6340">
     <title>常用</title>
+    <folder id="6343">
+      <title>日常</title>
+      <bookmark href="https://fuliba2023.net/" id="3260">
+        <title>福利吧</title>
+      </bookmark>
+      <bookmark href="https://www.wnflb00.com/plugin.php?id=rank_7ree:rank_7ree&amp;code=1&amp;fid_7ree=0" id="6342">
+        <title>福利吧论坛</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://web.telegram.org/a/" id="6327">
       <title>Telegram</title>
     </bookmark>
@@ -15351,12 +15360,6 @@
     </bookmark>
     <bookmark href="https://www.innoreader.com/all_articles" id="10">
       <title>Inoreader</title>
-    </bookmark>
-    <bookmark href="https://fuliba2023.net/" id="3260">
-      <title>福利吧</title>
-    </bookmark>
-    <bookmark href="https://www.wnflb00.com/plugin.php?id=rank_7ree:rank_7ree&amp;code=1&amp;fid_7ree=0" id="6342">
-      <title>福利吧论坛</title>
     </bookmark>
     <bookmark href="http://192.168.0.1/" id="6">
       <title>路由</title>
