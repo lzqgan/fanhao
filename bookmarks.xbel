@@ -18833,9 +18833,6 @@
       <title>三毛机场</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.usezz.com/" id="6332">
-    <title>文本工具</title>
-  </bookmark>
   <folder id="6340">
     <title>常用</title>
     <bookmark href="https://web.telegram.org/a/" id="6327">
@@ -18852,6 +18849,9 @@
     </bookmark>
     <bookmark href="https://www.wnflb00.com/plugin.php?id=rank_7ree:rank_7ree&amp;code=1&amp;fid_7ree=0" id="6342">
       <title>福利吧论坛</title>
+    </bookmark>
+    <bookmark href="http://192.168.0.1/" id="6">
+      <title>路由</title>
     </bookmark>
   </folder>
   <folder id="6341">
@@ -18872,14 +18872,8 @@
   <bookmark href="javascript:(function(){let selectedText = window.getSelection().toString().trim();document.write(&apos;&lt;HTML&gt;&lt;HEAD&gt;&lt;TITLE&gt;%E4%B8%89%E5%B1%8F%E6%90%9C%E7%B4%A2&lt;/TITLE&gt;&lt;/HEAD&gt;&lt;FRAMESET COLS=\&apos;33%,34%,33%\&apos;&gt;&lt;FRAME SRC=&apos;+(&apos;https://www.hsck.la/index.php/vod/search.html?wd=%27+selectedText)+%27%3E%3CFRAME%20SRC=%27+(%27hhttps://www.javbus.com/search/%27+selectedText)+%27%3E%3CFRAME%20SRC=%27+(%27https://jable.tv/videos/%27+selectedText+%27/%27)+%27%3E%3C/FRAMESET%3E%3C/HTML%3E%27);})()" id="6328">
     <title>jav三屏</title>
   </bookmark>
-  <bookmark href="https://ai.jucwl.com/#/chat" id="6325">
-    <title>CharAI</title>
-  </bookmark>
   <bookmark href="javascript:(function() {    var combinedText = `[${document.title}](${document.URL})`;         var tempInput = document.createElement(&quot;input&quot;);      tempInput.value = combinedText;      document.body.appendChild(tempInput);      tempInput.select();      document.execCommand(&quot;copy&quot;);      document.body.removeChild(tempInput);       alert(&quot;%E5%B7%B2%E5%A4%8D%E5%88%B6%E5%88%B0%E5%89%AA%E8%B4%B4%E6%9D%BF:\n &quot;+ combinedText);    })();" id="6329">
     <title>三屏搜索</title>
-  </bookmark>
-  <bookmark href="http://192.168.0.1/" id="6">
-    <title>路由</title>
   </bookmark>
   <bookmark href="javascript:void(open(&quot;http://lzqgan.top:15003/?c=admin&amp;page=add_quick_tpl&amp;u=lzqgan&amp;fid=&amp;Auto_Off=3000&amp;Auto_add=0&amp;property=0&amp;url=%22%20+%20encodeURIComponent(location.href)%20+%20%22&amp;title=%22%20+%20encodeURIComponent(document.title),%20%22_blank%22,%20%22toolbar=yes,%20location=yes,%20directories=no,%20status=no,%20menubar=yes,%20scrollbars=yes,%20resizable=no,%20copyhistory=yes,%20left=200,top=200,width=400,%20height=460%22));" id="6306">
     <title>添加</title>
@@ -18889,6 +18883,12 @@
   </bookmark>
   <bookmark href="http://jsb.lzqgan.top:800/" id="8">
     <title>memos</title>
+  </bookmark>
+  <bookmark href="https://ai.jucwl.com/#/chat" id="6325">
+    <title>CharAI</title>
+  </bookmark>
+  <bookmark href="https://www.usezz.com/" id="6332">
+    <title>文本工具</title>
   </bookmark>
   <folder id="6319">
     <title>小书签</title>
