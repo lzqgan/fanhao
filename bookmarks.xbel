@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6352: for Floccus bookmark sync browser extension -->
+<!--- highestId :6353: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -15399,6 +15399,9 @@
     </bookmark>
     <bookmark href="https://avbro.xyz/" id="6352">
       <title>AV兄弟</title>
+    </bookmark>
+    <bookmark href="https://www.okav13.mom/index.php/vod/type/id/2.html" id="6353">
+      <title>蜜桃屯</title>
     </bookmark>
   </folder>
   <bookmark href="http://lzqgan.top:15003/" id="7">
