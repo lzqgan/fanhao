@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6355: for Floccus bookmark sync browser extension -->
+<!--- highestId :6356: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -15408,6 +15408,9 @@
     </bookmark>
     <bookmark href="https://kimivod.com/" id="6355">
       <title>Kimivod</title>
+    </bookmark>
+    <bookmark href="https://xn--ieu270c.mnrj0z53.xyz/" id="6356">
+      <title>猛男日妓</title>
     </bookmark>
   </folder>
   <bookmark href="http://lzqgan.top:15003/" id="7">
