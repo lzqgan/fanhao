@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6357: for Floccus bookmark sync browser extension -->
+<!--- highestId :6358: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -15490,6 +15490,9 @@
   </bookmark>
   <bookmark href="http://pvz.56wan.com/" id="6347">
     <title>植物大战僵尸,植物大战僵尸网页版,植物大战僵尸小游戏,植物大战僵尸攻略-植物大战僵尸online官网</title>
+  </bookmark>
+  <bookmark href="https://noodlemagazine.com/video/ipx" id="6358">
+    <title>Ipx - found videos</title>
   </bookmark>
 </folder>
 <folder id="2">
