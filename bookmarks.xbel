@@ -8948,9 +8948,6 @@
         <bookmark href="http://zhan.renren.com/archiname?from=profile&amp;checked=true" id="1031">
           <title>筑名导航 - 人人小站</title>
         </bookmark>
-        <bookmark href="https://trackerslist.com/#/zh?id=aria2" id="6363">
-          <title>TrackersList</title>
-        </bookmark>
       </folder>
       <folder id="170">
         <title>建筑网站</title>
@@ -15508,6 +15505,9 @@
   </bookmark>
   <bookmark href="http://wow.battlenet.top/" id="6362">
     <title>魔兽宏工具</title>
+  </bookmark>
+  <bookmark href="https://trackerslist.com/#/zh?id=aria2" id="6363">
+    <title>TrackersList</title>
   </bookmark>
 </folder>
 <folder id="2">
