@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6369: for Floccus bookmark sync browser extension -->
+<!--- highestId :6372: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -15526,6 +15526,15 @@
   </bookmark>
   <bookmark href="https://www.hkybqufgh.com/vod/play/111228/1/707044" id="6367">
     <title>hello！树先生_剧情_界影视_免费在线播放_高清全集_电影网站_在线视频_2011-11-04</title>
+  </bookmark>
+  <bookmark href="https://www.jdynew.com/help/index.php/zenme/254739.html" id="6370">
+    <title>chm无法显示内容的解决方法 - 筋斗云</title>
+  </bookmark>
+  <bookmark href="https://wyagd001.github.io/zh-cn/docs/misc/RegEx-QuickRef.htm#Common" id="6371">
+    <title>正则表达式快速参考 | AutoHotkey v1</title>
+  </bookmark>
+  <bookmark href="https://wyagd001.github.io/" id="6372">
+    <title>桂林小廖 | Autohotkey 中文翻译, 自用脚本主页</title>
   </bookmark>
 </folder>
 <folder id="2">
