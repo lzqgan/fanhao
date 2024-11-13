@@ -7,11 +7,11 @@
   <title>Bookmarks Bar</title>
   <folder id="3">
     <title>历史</title>
-    <bookmark href="https://translate.google.com/" id="21">
-      <title>翻译</title>
-    </bookmark>
     <bookmark href="https://www.ppzhilian.com/?ref=appinn" id="22">
       <title>皮皮直连</title>
+    </bookmark>
+    <bookmark href="http://lzqgan.ys168.com/" id="695">
+      <title>蚂ǒ_ǒ蚁</title>
     </bookmark>
     <folder id="23">
       <title>fav</title>
@@ -293,9 +293,6 @@
       </bookmark>
       <bookmark href="http://www.sogou.com/" id="694">
         <title>搜狗</title>
-      </bookmark>
-      <bookmark href="http://lzqgan.ys168.com/" id="695">
-        <title>蚂ǒ_ǒ蚁</title>
       </bookmark>
     </folder>
     <folder id="25">
