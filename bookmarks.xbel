@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6372: for Floccus bookmark sync browser extension -->
+<!--- highestId :6373: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -15322,12 +15322,6 @@
     <bookmark href="http://lzqgan.web3v.vip/" id="42">
       <title>lzqgan.web3v.vip</title>
     </bookmark>
-    <bookmark href="https://www.acggw.me/#term-1" id="43">
-      <title>ACG港湾 | 游戏分享的港湾</title>
-    </bookmark>
-    <bookmark href="https://koyso.com/" id="44">
-      <title>Koyso</title>
-    </bookmark>
     <bookmark href="https://mgz0227.github.io/The-tutorial-of-Legado/" id="6308">
       <title>阅读3.0(Legado)规则说明</title>
     </bookmark>
@@ -15431,6 +15425,15 @@
   <bookmark href="http://lzqgan.top:15003/" id="7">
     <title>书签</title>
   </bookmark>
+  <folder id="6373">
+    <title>game</title>
+    <bookmark href="https://www.acggw.me/#term-1" id="43">
+      <title>ACG港湾 | 游戏分享的港湾</title>
+    </bookmark>
+    <bookmark href="https://koyso.com/" id="44">
+      <title>Koyso</title>
+    </bookmark>
+  </folder>
   <bookmark href="javascript:void(open(&quot;http://lzqgan.top:15003/?c=admin&amp;page=add_quick_tpl&amp;u=lzqgan&amp;fid=&amp;Auto_Off=3000&amp;Auto_add=0&amp;property=0&amp;url=%22%20+%20encodeURIComponent(location.href)%20+%20%22&amp;title=%22%20+%20encodeURIComponent(document.title),%20%22_blank%22,%20%22toolbar=yes,%20location=yes,%20directories=no,%20status=no,%20menubar=yes,%20scrollbars=yes,%20resizable=no,%20copyhistory=yes,%20left=200,top=200,width=400,%20height=460%22));" id="6306">
     <title>添加</title>
   </bookmark>
