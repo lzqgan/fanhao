@@ -15422,9 +15422,6 @@
       <title>盗版MissAV</title>
     </bookmark>
   </folder>
-  <bookmark href="http://lzqgan.top:15003/" id="7">
-    <title>书签</title>
-  </bookmark>
   <folder id="6373">
     <title>game</title>
     <bookmark href="https://www.acggw.me/#term-1" id="43">
@@ -15434,6 +15431,9 @@
       <title>Koyso</title>
     </bookmark>
   </folder>
+  <bookmark href="http://lzqgan.top:15003/" id="7">
+    <title>书签</title>
+  </bookmark>
   <bookmark href="javascript:void(open(&quot;http://lzqgan.top:15003/?c=admin&amp;page=add_quick_tpl&amp;u=lzqgan&amp;fid=&amp;Auto_Off=3000&amp;Auto_add=0&amp;property=0&amp;url=%22%20+%20encodeURIComponent(location.href)%20+%20%22&amp;title=%22%20+%20encodeURIComponent(document.title),%20%22_blank%22,%20%22toolbar=yes,%20location=yes,%20directories=no,%20status=no,%20menubar=yes,%20scrollbars=yes,%20resizable=no,%20copyhistory=yes,%20left=200,top=200,width=400,%20height=460%22));" id="6306">
     <title>添加</title>
   </bookmark>
