@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6377: for Floccus bookmark sync browser extension -->
+<!--- highestId :6378: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -15547,6 +15547,9 @@
   </bookmark>
   <bookmark href="http://lzqgan.top:15002/data/game/Confined%20and%20Horny%20v0.17/" id="6377">
     <title>Confined and Horny</title>
+  </bookmark>
+  <bookmark href="https://bulianglin.com/archives/snibypass.html" id="6378">
+    <title>chromium浏览器伪造sni工具网页版 - 科学上网 技术分享</title>
   </bookmark>
 </folder>
 <folder id="2">
