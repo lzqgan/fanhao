@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6381: for Floccus bookmark sync browser extension -->
+<!--- highestId :6382: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -15559,6 +15559,9 @@
   </bookmark>
   <bookmark href="https://mp.weixin.qq.com/s/q-XopMD93G-Wvmj20ox-1w" id="6381">
     <title>峰哥自用SU插件下载</title>
+  </bookmark>
+  <bookmark href="https://www.51zxw.net/ExpertInfo.aspx?id=7961" id="6382">
+    <title>网站名师-我要自学网</title>
   </bookmark>
 </folder>
 <folder id="2">
