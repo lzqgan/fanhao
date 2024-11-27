@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :6382: for Floccus bookmark sync browser extension -->
+<!--- highestId :6383: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -15562,6 +15562,9 @@
   </bookmark>
   <bookmark href="https://www.51zxw.net/ExpertInfo.aspx?id=7961" id="6382">
     <title>网站名师-我要自学网</title>
+  </bookmark>
+  <bookmark href="https://www.freedidi.com/17131.html" id="6383">
+    <title>批量获取免费的VPN节点，用不完真用不完….. BPB-Worker-Panel 面板BUG利用！！-零度博客</title>
   </bookmark>
 </folder>
 <folder id="2">
