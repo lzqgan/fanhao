@@ -13907,9 +13907,6 @@
   <bookmark href="javascript:(function(){let selectedText = window.getSelection().toString().trim();document.write(&apos;&lt;HTML&gt;&lt;HEAD&gt;&lt;TITLE&gt;%E4%B8%89%E5%B1%8F%E6%90%9C%E7%B4%A2&lt;/TITLE&gt;&lt;/HEAD&gt;&lt;FRAMESET COLS=\&apos;33%,34%,33%\&apos;&gt;&lt;FRAME SRC=&apos;+(&apos;https://www.hsck.la/index.php/vod/search.html?wd=%27+selectedText)+%27%3E%3CFRAME%20SRC=%27+(%27hhttps://www.javbus.com/search/%27+selectedText)+%27%3E%3CFRAME%20SRC=%27+(%27https://jable.tv/videos/%27+selectedText+%27/%27)+%27%3E%3C/FRAMESET%3E%3C/HTML%3E%27);})()" id="6328">
     <title>jav三屏</title>
   </bookmark>
-  <bookmark href="javascript:(function() {    var combinedText = `[${document.title}](${document.URL})`;         var tempInput = document.createElement(&quot;input&quot;);      tempInput.value = combinedText;      document.body.appendChild(tempInput);      tempInput.select();      document.execCommand(&quot;copy&quot;);      document.body.removeChild(tempInput);       alert(&quot;%E5%B7%B2%E5%A4%8D%E5%88%B6%E5%88%B0%E5%89%AA%E8%B4%B4%E6%9D%BF:\n &quot;+ combinedText);    })();" id="6329">
-    <title>三屏搜索</title>
-  </bookmark>
   <bookmark href="https://ai.jucwl.com/#/chat" id="6325">
     <title>CharAI</title>
   </bookmark>
@@ -13931,9 +13928,6 @@
       <title>常用小书签</title>
     </bookmark>
   </folder>
-  <bookmark href="javascript:function se(d){return d.selection?d.selection.createRange().text:d.getSelection()}s=se(document);for(i=0;i%3Cframes.length&amp;&amp;!s;i++)s=se(frames[i].document);if(!s||s==%27%27)s=prompt(%27%E4%BD%A0%E6%B2%A1%E6%9C%89%E9%80%89%E6%8B%A9%E6%96%87%E6%9C%AC%EF%BC%8C%E8%AF%B7%E8%BE%93%E5%85%A5%E5%85%B3%E9%94%AE%E8%AF%8D%27,%27%27);winsize=screen.width-550;void(window.open((%27https://m.baidu.com/s?wd=%27+(s?%27%27+encodeURIComponent(s):%27%27)),%20%27_blank%27,%20%27height=650,width=450,top=200,left=%27%20+%20winsize));" id="6326">
-    <title>百度小窗搜索</title>
-  </bookmark>
   <bookmark href="https://mail.126.com/" id="6302">
     <title>网易邮箱</title>
   </bookmark>
