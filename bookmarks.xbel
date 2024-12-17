@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8237: for Floccus bookmark sync browser extension -->
+<!--- highestId :8238: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -7814,6 +7814,9 @@
       <title>建筑</title>
       <bookmark href="http://www.archgo.com/" id="668">
         <title>ArchGo! 世界优秀建筑到您的桌面</title>
+      </bookmark>
+      <bookmark href="chrome://newtab/" id="8238">
+        <title>新标签页</title>
       </bookmark>
     </folder>
     <folder id="206">
