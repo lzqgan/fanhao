@@ -7818,9 +7818,6 @@
       <bookmark href="chrome://newtab/" id="8238">
         <title>新标签页</title>
       </bookmark>
-      <bookmark href="https://dz.iwohj.cn/" id="8242">
-        <title>今日地址发布</title>
-      </bookmark>
     </folder>
     <folder id="206">
       <title>临时文件</title>
@@ -14077,6 +14074,9 @@
   </bookmark>
   <bookmark href="https://abc.hdys.top/" id="8241">
     <title>花都影视永久地址发布页</title>
+  </bookmark>
+  <bookmark href="https://dz.iwohj.cn/" id="8242">
+    <title>核基地地址发布</title>
   </bookmark>
 </folder>
 </xbel>
