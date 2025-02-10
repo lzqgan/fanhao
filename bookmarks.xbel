@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8242: for Floccus bookmark sync browser extension -->
+<!--- highestId :8243: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -13843,6 +13843,9 @@
         <title>宝宝巴士 - 西瓜视频</title>
       </bookmark>
     </folder>
+    <bookmark href="https://www.wolai.com/8JQ1numaWB9EwWXfC9mryH" id="8243">
+      <title>web收集</title>
+    </bookmark>
   </folder>
   <folder id="6341">
     <title>jav</title>
