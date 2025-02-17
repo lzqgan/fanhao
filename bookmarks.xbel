@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8243: for Floccus bookmark sync browser extension -->
+<!--- highestId :8244: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -7817,6 +7817,9 @@
       </bookmark>
       <bookmark href="chrome://newtab/" id="8238">
         <title>新标签页</title>
+      </bookmark>
+      <bookmark href="https://xiaoyakankan.com/post/f082f16c23.html?vod=166_44231-0" id="8244">
+        <title>《妈妈和女儿的隐秘夜晚》 - 小鸭看看</title>
       </bookmark>
     </folder>
     <folder id="206">
