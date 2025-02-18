@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8246: for Floccus bookmark sync browser extension -->
+<!--- highestId :8247: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
+  <bookmark href="javascript:var frame=document.createElement(&apos;iframe&apos;);frame.setAttribute(&apos;id&apos;,&apos;sidebarView&apos;);var x=&apos;https://jsb.lzqgan.top:800/&apos;;frame.src=x;frame.style.position=&apos;fixed&apos;;frame.style.top=&apos;-1px&apos;;frame.style.right=&apos;0%25&apos;;frame.style.height=&apos;100%25&apos;;frame.style.width=&apos;450px&apos;;frame.style.border=&apos;1px solid #bbb&apos;;frame.style.background=&apos;#fff&apos;;frame.style.zIndex=&apos;100000&apos;;document.body.appendChild(frame);void(0);javascript:(()=%3E{const%20b%20=%20document.createElement(&apos;button&apos;);b.setAttribute(&apos;id&apos;,&apos;sidebarClose&apos;);b.onclick=()=%3E{document.querySelectorAll(&apos;#sidebarView,#sidebarClose&apos;).forEach(function(i)%20{i.parentElement.removeChild(i);});};b.style=&apos;all:reset;position:fixed;z-index:999999;top:3%25;margin:auto;right:220px;width:28px;height:28px;border-radius:50%25;border:%202px%20solid%20#bbb;background-color:#eee;&apos;;b.innerText=&apos;%E2%9C%95&apos;;document.body.appendChild(b)})()" id="8246">
+    <title>侧边栏背单词</title>
+  </bookmark>
   <folder id="3">
     <title>历史</title>
     <bookmark href="https://www.ppzhilian.com/?ref=appinn" id="22">
@@ -13895,6 +13898,9 @@
       <title>盗版MissAV</title>
     </bookmark>
   </folder>
+  <bookmark href="javascript:var frame=document.createElement(&apos;iframe&apos;);frame.setAttribute(&apos;id&apos;,&apos;sidebarView&apos;);var x=&apos;https://126.com&apos;;frame.src=x;frame.style.position=&apos;fixed&apos;;frame.style.top=&apos;-1px&apos;;frame.style.right=&apos;0%25&apos;;frame.style.height=&apos;100%25&apos;;frame.style.width=&apos;450px&apos;;frame.style.border=&apos;1px solid #bbb&apos;;frame.style.background=&apos;#fff&apos;;frame.style.zIndex=&apos;100000&apos;;document.body.appendChild(frame);void(0);javascript:(()=%3E{const%20b%20=%20document.createElement(&apos;button&apos;);b.setAttribute(&apos;id&apos;,&apos;sidebarClose&apos;);b.onclick=()=%3E{document.querySelectorAll(&apos;#sidebarView,#sidebarClose&apos;).forEach(function(i)%20{i.parentElement.removeChild(i);});};b.style=&apos;all:reset;position:fixed;z-index:999999;top:3%25;margin:auto;right:220px;width:28px;height:28px;border-radius:50%25;border:%202px%20solid%20#bbb;background-color:#eee;&apos;;b.innerText=&apos;%E2%9C%95&apos;;document.body.appendChild(b)})()" id="8247">
+    <title>侧边栏背单词</title>
+  </bookmark>
   <folder id="6373">
     <title>game</title>
     <bookmark href="https://www.acggw.me/#term-1" id="43">
@@ -14026,9 +14032,6 @@
   </bookmark>
   <bookmark href="https://www.freedidi.com/17131.html" id="6383">
     <title>批量获取免费的VPN节点，用不完真用不完….. BPB-Worker-Panel 面板BUG利用！！-零度博客</title>
-  </bookmark>
-  <bookmark href="javascript:var frame=document.createElement(&apos;iframe&apos;);frame.setAttribute(&apos;id&apos;,&apos;sidebarView&apos;);var x=&apos;https://jsb.lzqgan.top:800/&apos;;frame.src=x;frame.style.position=&apos;fixed&apos;;frame.style.top=&apos;-1px&apos;;frame.style.right=&apos;0%25&apos;;frame.style.height=&apos;100%25&apos;;frame.style.width=&apos;450px&apos;;frame.style.border=&apos;1px solid #bbb&apos;;frame.style.background=&apos;#fff&apos;;frame.style.zIndex=&apos;100000&apos;;document.body.appendChild(frame);void(0);javascript:(()=%3E{const%20b%20=%20document.createElement(&apos;button&apos;);b.setAttribute(&apos;id&apos;,&apos;sidebarClose&apos;);b.onclick=()=%3E{document.querySelectorAll(&apos;#sidebarView,#sidebarClose&apos;).forEach(function(i)%20{i.parentElement.removeChild(i);});};b.style=&apos;all:reset;position:fixed;z-index:999999;top:3%25;margin:auto;right:220px;width:28px;height:28px;border-radius:50%25;border:%202px%20solid%20#bbb;background-color:#eee;&apos;;b.innerText=&apos;%E2%9C%95&apos;;document.body.appendChild(b)})()" id="8246">
-    <title>侧边栏背单词</title>
   </bookmark>
 </folder>
 <folder id="2">
