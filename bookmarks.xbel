@@ -13919,9 +13919,6 @@
   <bookmark href="https://ai.jucwl.com/#/chat" id="6325">
     <title>CharAI</title>
   </bookmark>
-  <bookmark href="javascript:(function (w,d)%7Bvar href=location.href;var website=w.prompt(&apos;%E8%AF%B7%E8%BE%93%E5%85%A5%E7%BD%91%E5%9D%80&apos;,&apos;&apos;)%7C%7Chref;d.write(&apos;&lt;HTML&gt;&lt;HEAD&gt;&lt;/HEAD&gt;&lt;FRAMESET COLS=%5C&apos;50%25,*%5C&apos;&gt;&lt;FRAME SRC=&apos;+location.href+&apos;&gt;&lt;FRAME SRC=&apos;+website+&apos;&gt;&lt;/FRAMESET&gt;&lt;/HTML&gt;&apos;);%7D)(window,document)" id="8236">
-    <title>垂直分屏模式</title>
-  </bookmark>
   <bookmark href="https://www.usezz.com/" id="6332">
     <title>文本工具</title>
   </bookmark>
