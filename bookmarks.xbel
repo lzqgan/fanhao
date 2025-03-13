@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8252: for Floccus bookmark sync browser extension -->
+<!--- highestId :8253: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -14008,6 +14008,9 @@
   </bookmark>
   <bookmark href="https://tophub.today/" id="8252">
     <title>今日热榜官网</title>
+  </bookmark>
+  <bookmark href="https://ms.qianxys.com/" id="8253">
+    <title>魔兽争霸3下载</title>
   </bookmark>
 </folder>
 <folder id="2">
