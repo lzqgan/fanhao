@@ -13907,12 +13907,6 @@
   <bookmark href="javascript:void(open(&quot;http://lzqgan.top:15003/?c=admin&amp;page=add_quick_tpl&amp;u=lzqgan&amp;fid=&amp;Auto_Off=3000&amp;Auto_add=0&amp;property=0&amp;url=%22%20+%20encodeURIComponent(location.href)%20+%20%22&amp;title=%22%20+%20encodeURIComponent(document.title),%20%22_blank%22,%20%22toolbar=yes,%20location=yes,%20directories=no,%20status=no,%20menubar=yes,%20scrollbars=yes,%20resizable=no,%20copyhistory=yes,%20left=200,top=200,width=400,%20height=460%22));" id="6306">
     <title>添加</title>
   </bookmark>
-  <bookmark href="http://jsb.lzqgan.top:800/" id="8">
-    <title>memos</title>
-  </bookmark>
-  <bookmark href="https://ai.jucwl.com/#/chat" id="6325">
-    <title>CharAI</title>
-  </bookmark>
   <folder id="6319">
     <title>小书签</title>
     <bookmark href="javascript:function se(d) {return d.selection ?%20d.selection.createRange().text%20:%20d.getSelection()}%20s%20=%20se(document);%20for%20(i=0;%20i%3Cframes.length%20&amp;&amp;%20!s;%20i++)%20s%20=%20se(frames[i].document);%20if%20(!s%20||%20s==%27%27)%20s%20=%20prompt(%27%E4%BD%A0%E6%B2%A1%E6%9C%89%E9%80%89%E6%8B%A9%E6%96%87%E6%9C%AC%EF%BC%8C%E8%AF%B7%E8%BE%93%E5%85%A5%E5%85%B3%E9%94%AE%E8%AF%8D%27,%27%27);%20open(%27https://www.javbus.com/search/%27%20+%20(s%20?%20%27%27%20+%20encodeURIComponent(s)%20:%20%27%27)).focus();" id="6318">
@@ -13928,6 +13922,12 @@
       <title>常用小书签</title>
     </bookmark>
   </folder>
+  <bookmark href="http://jsb.lzqgan.top:800/" id="8">
+    <title>memos</title>
+  </bookmark>
+  <bookmark href="https://ai.jucwl.com/#/chat" id="6325">
+    <title>CharAI</title>
+  </bookmark>
   <bookmark href="https://mail.126.com/" id="6302">
     <title>网易邮箱</title>
   </bookmark>
