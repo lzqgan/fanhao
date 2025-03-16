@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8254: for Floccus bookmark sync browser extension -->
+<!--- highestId :8255: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -13909,6 +13909,9 @@
   </bookmark>
   <bookmark href="javascript:(function() {      var combinedText = `&gt;%E3%80%90%E5%8F%82%E8%80%83%EF%BC%9A[${document.title}](${document.URL})%E3%80%91`;         var tempInput = document.createElement(&quot;input&quot;);      tempInput.value = combinedText;      document.body.appendChild(tempInput);      tempInput.select();      document.execCommand(&quot;copy&quot;);      document.body.removeChild(tempInput);       alert(&quot;%E5%B7%B2%E5%A4%8D%E5%88%B6%E5%88%B0%E5%89%AA%E8%B4%B4%E6%9D%BF: \n&quot; + combinedText);    })();" id="8254">
     <title>MD链接</title>
+  </bookmark>
+  <bookmark href="https://inbox.gudong.site/#/web" id="8255">
+    <title>inbox</title>
   </bookmark>
   <folder id="6319">
     <title>小书签</title>
