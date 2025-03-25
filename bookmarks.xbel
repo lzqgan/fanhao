@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8260: for Floccus bookmark sync browser extension -->
+<!--- highestId :8261: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -7820,6 +7820,9 @@
       </bookmark>
       <bookmark href="https://xiaoyakankan.com/post/f082f16c23.html?vod=166_44231-0" id="8244">
         <title>《妈妈和女儿的隐秘夜晚》 - 小鸭看看</title>
+      </bookmark>
+      <bookmark href="https://www.javbus.com/forum/forum.php?mod=viewthread&amp;tid=118658&amp;extra=&amp;highlight=JUL-134&amp;page=3" id="8261">
+        <title>目黑的这不JUL-134太顶了 请问各位还有没有同类型的影片 - 第3頁 - 求福利帶帶我 - 老司機論壇</title>
       </bookmark>
     </folder>
     <folder id="206">
