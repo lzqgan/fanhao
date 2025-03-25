@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8259: for Floccus bookmark sync browser extension -->
+<!--- highestId :8260: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -14023,6 +14023,9 @@
   </bookmark>
   <bookmark href="https://www.bejson.com/json/col2json/" id="8259">
     <title>在线Excel、CSV转JSON格式-BeJSON.com</title>
+  </bookmark>
+  <bookmark href="https://www.bejson.com/explore/index_new/" id="8260">
+    <title>JSON在线校验格式化工具（Be JSON）</title>
   </bookmark>
 </folder>
 <folder id="2">
