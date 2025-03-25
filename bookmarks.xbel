@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8258: for Floccus bookmark sync browser extension -->
+<!--- highestId :8259: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -14020,6 +14020,9 @@
   </bookmark>
   <bookmark href="https://ms.qianxys.com/" id="8253">
     <title>魔兽争霸3下载</title>
+  </bookmark>
+  <bookmark href="https://www.bejson.com/json/col2json/" id="8259">
+    <title>在线Excel、CSV转JSON格式-BeJSON.com</title>
   </bookmark>
 </folder>
 <folder id="2">
