@@ -8244,9 +8244,6 @@
       <bookmark href="http://note.youdao.com/" id="6398">
         <title>有道云</title>
       </bookmark>
-      <bookmark href="https://weread.qq.com/" id="6399">
-        <title>微信读书</title>
-      </bookmark>
       <bookmark href="https://www.youtube.com/" id="6400">
         <title>YouTube</title>
       </bookmark>
@@ -13789,6 +13786,9 @@
   </folder>
   <folder id="6340">
     <title>常用</title>
+    <bookmark href="https://weread.qq.com/" id="6399">
+      <title>微信读书</title>
+    </bookmark>
     <folder id="6343">
       <title>日常</title>
       <bookmark href="https://fuliba2023.net/" id="3260">
