@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8262: for Floccus bookmark sync browser extension -->
+<!--- highestId :8263: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -10346,6 +10346,9 @@
       </bookmark>
       <bookmark href="https://tiktokvoice.net/zh" id="7442">
         <title>TikTok Voice - 免费在线文字转语音</title>
+      </bookmark>
+      <bookmark href="https://pingti.app/" id="8263">
+        <title>最佳平替</title>
       </bookmark>
     </folder>
     <folder id="6393">
