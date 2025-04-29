@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8263: for Floccus bookmark sync browser extension -->
+<!--- highestId :8264: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -14032,6 +14032,9 @@
   </bookmark>
   <bookmark href="https://www.bejson.com/explore/index_new/" id="8260">
     <title>JSON在线校验格式化工具（Be JSON）</title>
+  </bookmark>
+  <bookmark href="https://nnhanman9.com/" id="8264">
+    <title>鸟鸟韩漫 - 最全最新无遮挡无删减韩漫</title>
   </bookmark>
 </folder>
 <folder id="2">
