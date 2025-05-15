@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8282: for Floccus bookmark sync browser extension -->
+<!--- highestId :8283: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
+  <bookmark href="javascript:window.name = &apos;receiver&apos;; window.open(&apos;http://www.squarefree.com/bookmarklets/remotePageLinks.html&apos;,&apos;&apos;,&apos;resizable=yes,width=223,height=337,left=508,top=122&apos;); void 0" id="8282">
+    <title>打开</title>
+  </bookmark>
   <folder id="3">
     <title>历史</title>
     <bookmark href="https://www.ppzhilian.com/?ref=appinn" id="22">
@@ -13793,6 +13796,9 @@
   <bookmark href="javascript:window.name = &apos;receiver&apos;; window.open(&apos;http://www.squarefree.com/bookmarklets/remotePageLinks.html&apos;,&apos;&apos;,&apos;resizable=yes,width=223,height=337,left=508,top=122&apos;); void 0" id="8281">
     <title>almost remote</title>
   </bookmark>
+  <bookmark href="javascript:window.name = &apos;receiver&apos;; window.open(&apos;https://lzqgan.github.io/TiddlyWiki5/#%E7%BE%A4%E6%99%96%E5%AF%BC%E8%88%AA:%E6%96%B0%E9%A6%96%E9%A1%B5%20%E7%BE%A4%E6%99%96%E5%AF%BC%E8%88%AA&apos;,&apos;&apos;,&apos;resizable=yes,width=223,height=337,left=508,top=122&apos;);%20void%200" id="8283">
+    <title>打开</title>
+  </bookmark>
   <folder id="6340">
     <title>常用</title>
     <bookmark href="https://weread.qq.com/" id="6399">
@@ -14058,9 +14064,6 @@
     <title>打开</title>
   </bookmark>
   <bookmark href="javascript:window.open(&apos;http://example1.com&apos;, &apos;_blank&apos;);setTimeout(() =&gt; {window.open(&apos;http://example2.com&apos;, &apos;_blank&apos;);}, 500);" id="8276">
-    <title>打开</title>
-  </bookmark>
-  <bookmark href="javascript:window.name = &apos;receiver&apos;; window.open(&apos;http://www.squarefree.com/bookmarklets/remotePageLinks.html&apos;,&apos;&apos;,&apos;resizable=yes,width=223,height=337,left=508,top=122&apos;); void 0" id="8282">
     <title>打开</title>
   </bookmark>
 </folder>
