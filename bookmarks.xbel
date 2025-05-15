@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8273: for Floccus bookmark sync browser extension -->
+<!--- highestId :8274: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -14045,12 +14045,12 @@
   <bookmark href="https://www.ruanyifeng.com/blog/2011/06/a_guide_for_writing_bookmarklet.html" id="8267">
     <title>Bookmarklet编写指南 - 阮一峰的网络日志</title>
   </bookmark>
+  <bookmark href="http://window.open(&apos;http//example1.com&apos;,%20&apos;_blank&apos;);setTimeout(()%20=%3E%20%7Bwindow.open(&apos;http://example2.com&apos;,%20&apos;_blank&apos;);%7D,%20500);" id="8274">
+    <title>打开</title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
-  <bookmark href="javascript:(function(){window.open(&apos;https://%E7%AC%AC%E4%B8%80%E7%BD%91%E5%9D%80&apos;);window.open(&apos;https://%E7%AC%AC%E4%BA%8C%E7%BD%91%E5%9D%80&apos;);})();" id="8271">
-    <title>打开</title>
-  </bookmark>
   <bookmark href="https://weibo.com/lanhaiwingworld?is_hot=1#_rnd1570786614294" id="11">
     <title>超级育儿师兰海的微博_微博</title>
   </bookmark>
@@ -14102,10 +14102,10 @@
   <bookmark href="https://dz.iwohj.cn/" id="8242">
     <title>核基地地址发布</title>
   </bookmark>
-  <bookmark href="javascript:(function openTabs() {window.open(&apos;https://www.example.com&apos;); window.open(&apos;https://www.example2.com&apos;); })()" id="8270">
+  <bookmark href="javascript:(function(){window.open(&apos;https:/baidu.com&apos;);window.open(&apos;https://126.com&apos;);}, 500)();" id="8273">
     <title>打开</title>
   </bookmark>
-  <bookmark href="javascript:(function(){window.open(&apos;https:/baidu.com&apos;);window.open(&apos;https://126.com&apos;);}, 500)();" id="8273">
+  <bookmark href="javascript:(function(){window.open(&apos;https://%E7%AC%AC%E4%B8%80%E7%BD%91%E5%9D%80&apos;);window.open(&apos;https://%E7%AC%AC%E4%BA%8C%E7%BD%91%E5%9D%80&apos;);})();" id="8271">
     <title>打开</title>
   </bookmark>
 </folder>
