@@ -13793,6 +13793,9 @@
   <bookmark href="javascript:window.name = &apos;receiver&apos;; window.open(&apos;http://www.squarefree.com/bookmarklets/remotePageLinks.html&apos;,&apos;&apos;,&apos;resizable=yes,width=223,height=337,left=508,top=122&apos;); void 0" id="8281">
     <title>almost remote</title>
   </bookmark>
+  <bookmark href="javascript:(function(){window.open(&apos;https://%E7%AC%AC%E4%B8%80%E7%BD%91%E5%9D%80&apos;);window.open(&apos;https://%E7%AC%AC%E4%BA%8C%E7%BD%91%E5%9D%80&apos;);})();" id="8271">
+    <title>打开</title>
+  </bookmark>
   <folder id="6340">
     <title>常用</title>
     <bookmark href="https://weread.qq.com/" id="6399">
@@ -14115,9 +14118,6 @@
     <title>核基地地址发布</title>
   </bookmark>
   <bookmark href="javascript:(function(){window.open(&apos;https:/baidu.com&apos;);window.open(&apos;https://126.com&apos;);}, 500)();" id="8273">
-    <title>打开</title>
-  </bookmark>
-  <bookmark href="javascript:(function(){window.open(&apos;https://%E7%AC%AC%E4%B8%80%E7%BD%91%E5%9D%80&apos;);window.open(&apos;https://%E7%AC%AC%E4%BA%8C%E7%BD%91%E5%9D%80&apos;);})();" id="8271">
     <title>打开</title>
   </bookmark>
 </folder>
