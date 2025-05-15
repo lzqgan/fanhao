@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8266: for Floccus bookmark sync browser extension -->
+<!--- highestId :8268: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -14042,6 +14042,9 @@
   <bookmark href="https://www.redian.me/theme/excel" id="8266">
     <title>工作表1 - 2024年度数据统计.xlsx - Excel</title>
   </bookmark>
+  <bookmark href="https://www.ruanyifeng.com/blog/2011/06/a_guide_for_writing_bookmarklet.html" id="8267">
+    <title>Bookmarklet编写指南 - 阮一峰的网络日志</title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
@@ -14095,6 +14098,9 @@
   </bookmark>
   <bookmark href="https://dz.iwohj.cn/" id="8242">
     <title>核基地地址发布</title>
+  </bookmark>
+  <bookmark href="https://www.baidu.com/s?ie=utf-8&amp;f=8&amp;rsv_bp=1&amp;tn=baidu&amp;wd=JavaScript%20%20%E6%89%93%E5%BC%802%E4%B8%AA%E7%BD%91%E9%A1%B5&amp;oq=JavaScript%2520%25E6%2589%2593%25E5%25BC%2580%25E7%25BD%2591%25E9%25A1%25B5&amp;rsv_pq=ebf39cd60169f6d4&amp;rsv_t=222dUpzNBVPcyA3Hyq5FQCx8ooVy73IgUs9m8RhfzYrgydDnJXYSsHWLvlc&amp;rqlang=cn&amp;rsv_enter=1&amp;rsv_dl=tb&amp;rsv_btype=t&amp;inputT=1830&amp;rsv_sug3=20&amp;rsv_sug1=15&amp;rsv_sug7=100&amp;rsv_sug2=0&amp;prefixsug=JavaScript%2520%2520%25E6%2589%2593%25E5%25BC%25802%25E4%25B8%25AA%25E7%25BD%2591%25E9%25A1%25B5&amp;rsp=3&amp;rsv_sug4=3272" id="8268">
+    <title>JavaScript 打开2个网页_百度搜索</title>
   </bookmark>
 </folder>
 </xbel>
