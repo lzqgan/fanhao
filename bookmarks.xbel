@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8279: for Floccus bookmark sync browser extension -->
+<!--- highestId :8280: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -13907,6 +13907,9 @@
       <title>Koyso</title>
     </bookmark>
   </folder>
+  <bookmark href="javascript:(function(){ window.name = &apos;receiver&apos;; var remoteWin=window.open(&apos;&apos;,&apos;&apos;,&apos;resizable=yes,width=223,height=337,left=508,top=122&apos;); remoteWin.document.write(&apos;&lt;html&gt;&lt;body&gt;&apos;); remoteWin.document.write(&apos;&lt;script src=&quot;http://www.squarefree.com/bookmarklets/remotePageLinks.js&quot;&gt;&lt;&apos;+&apos;/script&gt;&apos;); })();" id="8280">
+    <title>远程</title>
+  </bookmark>
   <bookmark href="https://app.follow.is/timeline/view-0/all/pending" id="8251">
     <title>Follow</title>
   </bookmark>
@@ -13924,6 +13927,9 @@
   </bookmark>
   <bookmark href="https://inbox.gudong.site/" id="8256">
     <title>inbox</title>
+  </bookmark>
+  <bookmark href="javascript:window.open(&apos;https://fuliba2023.net&apos;, &apos;_blank&apos;);setTimeout(() =&gt; {window.open(&apos;https://www.wnflb00.com/plugin.php?id=rank_7ree:rank_7ree&amp;code=1&amp;fid_7ree=0%27,%20%27_blank%27);},%20500);" id="8279">
+    <title>福吧bbs</title>
   </bookmark>
   <folder id="6319">
     <title>小书签</title>
@@ -14050,9 +14056,6 @@
   </bookmark>
   <bookmark href="javascript:window.open(&apos;http://example1.com&apos;, &apos;_blank&apos;);setTimeout(() =&gt; {window.open(&apos;http://example2.com&apos;, &apos;_blank&apos;);}, 500);" id="8276">
     <title>打开</title>
-  </bookmark>
-  <bookmark href="javascript:window.open(&apos;https://fuliba2023.net&apos;, &apos;_blank&apos;);setTimeout(() =&gt; {window.open(&apos;https://www.wnflb00.com/plugin.php?id=rank_7ree:rank_7ree&amp;code=1&amp;fid_7ree=0%27,%20%27_blank%27);},%20500);" id="8279">
-    <title>福吧bbs</title>
   </bookmark>
 </folder>
 <folder id="2">
