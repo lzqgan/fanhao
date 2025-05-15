@@ -13916,12 +13916,6 @@
       <title>Koyso</title>
     </bookmark>
   </folder>
-  <bookmark href="javascript:(function(){ window.name = &apos;receiver&apos;; var remoteWin=window.open(&apos;&apos;,&apos;&apos;,&apos;resizable=yes,width=223,height=337,left=508,top=122&apos;); remoteWin.document.write(&apos;&lt;html&gt;&lt;body&gt;&apos;); remoteWin.document.write(&apos;&lt;script src=&quot;http://www.squarefree.com/bookmarklets/remotePageLinks.js&quot;&gt;&lt;&apos;+&apos;/script&gt;&apos;); })();" id="8287">
-    <title>remote</title>
-  </bookmark>
-  <bookmark href="https://www.squarefree.com/bookmarklets/remotePageLinks.js" id="8286">
-    <title>remotePageLinks.js</title>
-  </bookmark>
   <bookmark href="https://app.follow.is/timeline/view-0/all/pending" id="8251">
     <title>Follow</title>
   </bookmark>
