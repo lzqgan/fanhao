@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8280: for Floccus bookmark sync browser extension -->
+<!--- highestId :8281: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -13790,6 +13790,9 @@
       <title>三毛机场</title>
     </bookmark>
   </folder>
+  <bookmark href="javascript:window.name = &apos;receiver&apos;; window.open(&apos;http://www.squarefree.com/bookmarklets/remotePageLinks.html&apos;,&apos;&apos;,&apos;resizable=yes,width=223,height=337,left=508,top=122&apos;); void 0" id="8281">
+    <title>almost remote</title>
+  </bookmark>
   <folder id="6340">
     <title>常用</title>
     <bookmark href="https://weread.qq.com/" id="6399">
