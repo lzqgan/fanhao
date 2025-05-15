@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8287: for Floccus bookmark sync browser extension -->
+<!--- highestId :8288: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -13793,9 +13793,6 @@
       <title>三毛机场</title>
     </bookmark>
   </folder>
-  <bookmark href="javascript:window.open(&apos;https://fuliba2023.net&apos;, &apos;_blank&apos;);setTimeout(() =&gt; {window.open(&apos;https://www.wnflb00.com/plugin.php?id=rank_7ree:rank_7ree&amp;code=1&amp;fid_7ree=0%27,%20%27_blank%27);},%20500);" id="8279">
-    <title>福吧bbs</title>
-  </bookmark>
   <bookmark href="javascript:window.name = &apos;receiver&apos;; window.open(&apos;https://lzqgan.github.io/TiddlyWiki5/#web&apos;,&apos;&apos;,&apos;resizable=yes,width=523,height=437,left=508,top=122&apos;);%20void%200" id="8285">
     <title>打开</title>
   </bookmark>
@@ -14065,6 +14062,9 @@
   </bookmark>
   <bookmark href="javascript:window.name = &apos;receiver&apos;; window.open(&apos;http://www.squarefree.com/bookmarklets/remotePageLinks.html&apos;,&apos;&apos;,&apos;resizable=yes,width=223,height=337,left=508,top=122&apos;); void 0" id="8281">
     <title>almost remote</title>
+  </bookmark>
+  <bookmark href="javascript:window.open(&apos;https://fuliba2023.net&apos;, &apos;_blank&apos;);setTimeout(() =&gt; {window.open(&apos;https://www.wnflb00.com/plugin.php?id=rank_7ree:rank_7ree&amp;code=1&amp;fid_7ree=0%27,%20%27_blank%27);},%201000);" id="8288">
+    <title>福吧bbs</title>
   </bookmark>
 </folder>
 <folder id="2">
