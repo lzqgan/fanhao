@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8272: for Floccus bookmark sync browser extension -->
+<!--- highestId :8273: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -14105,7 +14105,7 @@
   <bookmark href="javascript:(function openTabs() {window.open(&apos;https://www.example.com&apos;); window.open(&apos;https://www.example2.com&apos;); })()" id="8270">
     <title>打开</title>
   </bookmark>
-  <bookmark href="javascript:(function(){window.open(&apos;https:/baidu.com&apos;);window.open(&apos;https://126.com&apos;);})();" id="8272">
+  <bookmark href="javascript:(function(){window.open(&apos;https:/baidu.com&apos;);window.open(&apos;https://126.com&apos;);}, 500)();" id="8273">
     <title>打开</title>
   </bookmark>
 </folder>
