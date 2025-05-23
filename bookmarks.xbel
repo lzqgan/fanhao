@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8288: for Floccus bookmark sync browser extension -->
+<!--- highestId :8289: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -14119,6 +14119,9 @@
   </bookmark>
   <bookmark href="https://dz.iwohj.cn/" id="8242">
     <title>核基地地址发布</title>
+  </bookmark>
+  <bookmark href="https://libre-tv-brown-three.vercel.app/" id="8289">
+    <title>LibreTV</title>
   </bookmark>
 </folder>
 </xbel>
