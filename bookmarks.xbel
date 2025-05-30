@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8290: for Floccus bookmark sync browser extension -->
+<!--- highestId :8291: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -14113,6 +14113,9 @@
   </bookmark>
   <bookmark href="https://xzhan.xlog.app/xziyuanzhan?locale=zh" id="8290">
     <title>X资源采集站网址合集，可能是全网最齐全的，不断更新中！ - X站长</title>
+  </bookmark>
+  <bookmark href="https://libretv.is-an.org/" id="8291">
+    <title>LibreTV</title>
   </bookmark>
 </folder>
 </xbel>
