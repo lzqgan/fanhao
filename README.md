@@ -4,18 +4,25 @@
 
 ## 海阔视界 
 自建采集网合集
-
+```
 https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/haikuo/zdceshi.json
+```
+18
 ```
 https://cdn.jsdelivr.net/gh/lzqgan/fanhao/haikuo/18.json
 ```
-https://cdn.jsdelivr.net/gh/lzqgan/fanhao/haikuo/hikerV8.63.zip
+
+海阔 [备份文件](https://cdn.jsdelivr.net/gh/lzqgan/fanhao/haikuo/hikerV8.63.zip) 2025-06-13
 
 ## 阅读
-https://cdn.jsdelivr.net/gh/lzqgan/fanhao/yuedu/bookSource.json
-https://cdn.jsdelivr.net/gh/lzqgan/fanhao/yuedu/exportRssSource.json
-https://cdn.jsdelivr.net/gh/lzqgan/fanhao/yuedu/shareBookSource.json
-https://cdn.jsdelivr.net/gh/lzqgan/fanhao/yuedu/shareRssSource.json
+
+[导入备份书源](legado://import/bookSource?src=https://cdn.jsdelivr.net/gh/lzqgan/fanhao/yuedu/bookSource.json) |
+[导入第二书源](legado://import/bookSource?src=https://cdn.jsdelivr.net/gh/lzqgan/fanhao/yuedu/bookSource.json) 
+
+[导入备份Rss](legado://import/rssSource?src=https://cdn.jsdelivr.net/gh/lzqgan/fanhao/yuedu/exportRssSource.json)  |
+[导入备份Rss](legado://import/rssSource?src=https://cdn.jsdelivr.net/gh/lzqgan/fanhao/yuedu/shareRssSource.json)
+
+
 
 ## tvbox自建地址
 https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/tvbox/0723.json
@@ -30,6 +37,11 @@ https://cdn.jsdelivr.net/gh/lzqgan/fanhao/网络配置文件/搜索配置.json
 
 根据番号快速搜索
 https://cdn.jsdelivr.net/gh/lzqgan/fanhao/网络配置文件/jav搜索.json
+
+## RSS订阅备份
+```
+https://cdn.jsdelivr.net/gh/lzqgan/fanhao/网络配置文件/feedbro.opml
+```
 
 
 ## 软件工具
