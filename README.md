@@ -29,6 +29,8 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/lzqgan/fanhao/main/tv
 
 
 ## 油猴配置
+[油猴脚本备份2025-06-13](https://cdn.jsdelivr.net/gh/lzqgan/fanhao/网络配置文件/violentmonkey_2025-06-13_18.16.45.zip)
+
 搜索酱
 https://cdn.jsdelivr.net/gh/lzqgan/fanhao/网络配置文件/searchJumper_2025-6-13_171716.json
 
