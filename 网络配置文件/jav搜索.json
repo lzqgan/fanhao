@@ -1,0 +1,105 @@
+{
+    "debug": false,
+    "selectLength": 2,
+    "javbus": "https://www.javbus.com/",
+    "javdb": "https://javdb.com/",
+    "sehuatangURL": "https://www.sehuatang.net",
+    "addSearchButton": false,
+    "searchButtonIcon": "✈",
+    "clickToMenu": true,
+    "dontClearMenu": false,
+    "includeIDinLinks": true,
+    "dontImgBig": false,
+    "dontGetInfo": false,
+    "dontGetInfoFc2": false,
+    "dontGetInfoWuma": false,
+    "getInfoFailToJavDB": false,
+    "dontMagnetDiscern": false,
+    "magnetCopy": false,
+    "dontTransTitle": false,
+    "dontTransTags": false,
+    "dontGetVideo": false,
+    "videoVolume": 0.2,
+    "fc2Thumbnail": false,
+    "infoReload": false,
+    "closeJavdbLimit": false,
+    "closeLoadingAnimation": false,
+    "close_Related_Page": true,
+    "addOtherButton": false,
+    "sehuatang": true,
+    "emby": false,
+    "jellyfinHost": "http://localhost:8096/",
+    "jellyfinApiKey": "",
+    "LocalVideoSearch": false,
+    "LocalVideoSearchExtraButton": false,
+    "qBitHost": "http://localhost:8080/",
+    "qBitDownload": "",
+    "qBitNoPopup": false,
+    "baiduAppid": "",
+    "baiduKey": "",
+    "linkStyle": {
+        "color": "green",
+        "text-decoration": "underline green",
+        "font-weight": "normal",
+        "text-shadow": "rgb(177 177 177 / 70%) 1px 1px"
+    },
+    "visitStyle": {
+        "color": "chocolate",
+        "text-decoration": "underline dotted chocolate",
+        "font-weight": "normal",
+        "text-shadow": "rgb(177 177 177 / 65%) 1px 1px"
+    },
+    "noExistStyle": {
+        "color": "red",
+        "text-decoration": "underline dotted red"
+    },
+    "infoLocalVideoStyle": {
+        "color": "#598987",
+        "text-decoration": "underline dotted #598987"
+    },
+    "list": [
+        [
+            "18av",
+            "https://mjv001.com/zh/fc_search/all/%s/1.html"
+        ],
+        [
+            "ukd",
+            "https://100c9n4.ukdevilz.com/video/%s"
+        ],
+        [
+            "蘑菇",
+            "https://xkcm.cc/index.php/vod/search.html?wd=%s"
+        ],
+        [
+            "jable",
+            "https://jable.tv/search/%s/"
+        ],
+        [
+            "JavDB",
+            "https://javdb368.com/search?q=%s&f=all"
+        ],
+        [
+            "JavLib",
+            "https://www.o83h.com/cn//vl_searchbyid.php?keyword=%s"
+        ],
+        [
+            "JavMenu",
+            "https://javmenu.com/search?wd=%s"
+        ],
+        [
+            "missav",
+            "https://missav.ws/cn/search/%s/"
+        ]
+    ],
+    "list_wuma": [
+        [
+            "JavMenu",
+            "https://javmenu.com/search?wd=%s"
+        ],
+        [
+            "btsow",
+            "https://btsow.com/search/%s"
+        ]
+    ],
+    "list_all": []
+}
