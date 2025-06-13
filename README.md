@@ -57,20 +57,20 @@ https://cdn.jsdelivr.net/gh/lzqgan/fanhao/网络配置文件/feedbro.opml
 7Z
 ```
 https://cdn.jsdelivr.net/gh/lzqgan/fanhao/tool/7z/7z.dll
-https://cdn.jsdelivr.net/gh/lzqgan/fanhao/tool/7z/7z.exe
+https://github.com/lzqgan/fanhao/raw/refs/heads/main/tool/7z/7z.exe
 ```
 aria2
 ```
-https://cdn.jsdelivr.net/gh/lzqgan/fanhao/tool/aria2/aria2c.exe
+https://github.com/lzqgan/fanhao/raw/refs/heads/main/tool/aria2/aria2c.exe
 https://cdn.jsdelivr.net/gh/lzqgan/fanhao/tool/aria2.7z
 ```
 OnTopReplica(窗口化)
 
-https://cdn.jsdelivr.net/gh/lzqgan/fanhao/tool/OnTopReplica(窗口化).exe
+https://github.com/lzqgan/fanhao/raw/refs/heads/main/tool/OnTopReplica(窗口化).exe
 
 putty
 
-https://cdn.jsdelivr.net/gh/lzqgan/fanhao/tool/putty.exe
+https://github.com/lzqgan/fanhao/raw/refs/heads/main/tool/putty.exe
 
 RunAny
 
@@ -78,4 +78,4 @@ https://cdn.jsdelivr.net/gh/lzqgan/fanhao/tool/RunAny-master.zip
 
 Win7_active 系统注册
 
-https://cdn.jsdelivr.net/gh/lzqgan/fanhao/tool/Win7_active_1.0.exe
+https://github.com/lzqgan/fanhao/raw/refs/heads/main/tool/Win7_active_1.0.exe
